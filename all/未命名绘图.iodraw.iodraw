@@ -35,14 +35,19 @@
         <mxCell id="U86-gqc_oGLLbV2--8Oz-7" value="标签分组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="110" width="60" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="U86-gqc_oGLLbV2--8Oz-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="U86-gqc_oGLLbV2--8Oz-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="U86-gqc_oGLLbV2--8Oz-8" value="文章展示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U86-gqc_oGLLbV2--8Oz-9" value="话题展示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="U86-gqc_oGLLbV2--8Oz-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="240" width="120" height="60" as="geometry" />
+        <mxCell id="U86-gqc_oGLLbV2--8Oz-12" value="角色" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="240" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
