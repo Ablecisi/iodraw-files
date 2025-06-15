@@ -28,6 +28,9 @@
         <mxCell id="U86-gqc_oGLLbV2--8Oz-8" value="文章展示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="110" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="U86-gqc_oGLLbV2--8Oz-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
