@@ -19,7 +19,7 @@
         <mxCell id="U86-gqc_oGLLbV2--8Oz-5" value="话题展示模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="U86-gqc_oGLLbV2--8Oz-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="U86-gqc_oGLLbV2--8Oz-6">
+        <mxCell id="U86-gqc_oGLLbV2--8Oz-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U86-gqc_oGLLbV2--8Oz-6" target="U86-gqc_oGLLbV2--8Oz-12">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="30" y="240" as="targetPoint" />
           </mxGeometry>
@@ -51,6 +51,11 @@
         <mxCell id="U86-gqc_oGLLbV2--8Oz-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="U86-gqc_oGLLbV2--8Oz-9" target="U86-gqc_oGLLbV2--8Oz-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="U86-gqc_oGLLbV2--8Oz-18" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="U86-gqc_oGLLbV2--8Oz-17">
+          <mxGeometry x="-0.1143" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="U86-gqc_oGLLbV2--8Oz-9" value="话题展示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="110" width="120" height="60" as="geometry" />
         </mxCell>
@@ -60,7 +65,7 @@
         <mxCell id="U86-gqc_oGLLbV2--8Oz-14" value="文章" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="U86-gqc_oGLLbV2--8Oz-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="U86-gqc_oGLLbV2--8Oz-16" value="话题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
