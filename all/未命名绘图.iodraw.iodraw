@@ -89,6 +89,12 @@
         <mxCell id="c2qf7OCX8ZdXggBpQYz0-9" value="Login" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="369" y="40" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="c2qf7OCX8ZdXggBpQYz0-11" value="获取用户手机号和密码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c2qf7OCX8ZdXggBpQYz0-12" value="获取用户手机号和密码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="369" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
