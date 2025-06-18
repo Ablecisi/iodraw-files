@@ -65,6 +65,11 @@
         <mxCell id="c2qf7OCX8ZdXggBpQYz0-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="U86-gqc_oGLLbV2--8Oz-12" target="U86-gqc_oGLLbV2--8Oz-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="c2qf7OCX8ZdXggBpQYz0-30" value="userId" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="c2qf7OCX8ZdXggBpQYz0-29">
+          <mxGeometry x="-0.1333" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="U86-gqc_oGLLbV2--8Oz-12" value="角色" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="920" width="60" height="60" as="geometry" />
         </mxCell>
@@ -146,6 +151,9 @@
         </mxCell>
         <mxCell id="c2qf7OCX8ZdXggBpQYz0-21" value="获取到token" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c2qf7OCX8ZdXggBpQYz0-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="740" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
