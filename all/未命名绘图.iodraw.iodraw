@@ -65,6 +65,9 @@
         <mxCell id="U86-gqc_oGLLbV2--8Oz-12" value="角色" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="920" width="60" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="c2qf7OCX8ZdXggBpQYz0-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U86-gqc_oGLLbV2--8Oz-14" target="c2qf7OCX8ZdXggBpQYz0-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="U86-gqc_oGLLbV2--8Oz-14" value="文章" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="920" width="120" height="60" as="geometry" />
         </mxCell>
