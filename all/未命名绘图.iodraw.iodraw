@@ -8,7 +8,7 @@
           <mxGeometry width="830" height="20" as="geometry" />
         </mxCell>
         <mxCell id="U86-gqc_oGLLbV2--8Oz-2" value="Home" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry y="20" width="360" height="30" as="geometry" />
+          <mxGeometry y="20" width="380" height="30" as="geometry" />
         </mxCell>
         <mxCell id="U86-gqc_oGLLbV2--8Oz-3" value="AI角色展示模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry y="50" width="120" height="60" as="geometry" />
@@ -69,16 +69,16 @@
           <mxGeometry x="240" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c2qf7OCX8ZdXggBpQYz0-1" value="Conversation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="20" width="90" height="30" as="geometry" />
+          <mxGeometry x="377" y="20" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="c2qf7OCX8ZdXggBpQYz0-2" value="Character" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="20" width="90" height="30" as="geometry" />
+          <mxGeometry x="467" y="20" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="c2qf7OCX8ZdXggBpQYz0-3" value="Profile" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="20" width="90" height="30" as="geometry" />
+          <mxGeometry x="557" y="20" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="c2qf7OCX8ZdXggBpQYz0-4" value="Setting" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="20" width="90" height="30" as="geometry" />
+          <mxGeometry x="647" y="20" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="c2qf7OCX8ZdXggBpQYz0-5" value="Login" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="737" y="20" width="90" height="30" as="geometry" />
