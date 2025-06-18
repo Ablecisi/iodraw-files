@@ -133,7 +133,7 @@
         <mxCell id="c2qf7OCX8ZdXggBpQYz0-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="c2qf7OCX8ZdXggBpQYz0-21" target="c2qf7OCX8ZdXggBpQYz0-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="c2qf7OCX8ZdXggBpQYz0-27" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="c2qf7OCX8ZdXggBpQYz0-26">
+        <mxCell id="c2qf7OCX8ZdXggBpQYz0-27" value="添加token到请求头" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="c2qf7OCX8ZdXggBpQYz0-26">
           <mxGeometry x="-0.8661" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
