@@ -643,7 +643,7 @@
           <mxGeometry x="72.5" y="3908" width="193" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rtyTili3JYsXHJO3ME_O-157" value="start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="84" y="4214" width="120" height="60" as="geometry" />
+          <mxGeometry x="84" y="4226" width="120" height="48" as="geometry" />
         </mxCell>
         <mxCell id="rtyTili3JYsXHJO3ME_O-158" value="int i;&lt;div&gt;read(i);&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="86" y="4307" width="120" height="43" as="geometry" />
@@ -652,10 +652,10 @@
           <mxGeometry x="58.5" y="4377" width="181" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rtyTili3JYsXHJO3ME_O-160" value="i = i / 2;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="86" y="4501" width="120" height="60" as="geometry" />
+          <mxGeometry x="89" y="4485" width="120" height="44" as="geometry" />
         </mxCell>
         <mxCell id="rtyTili3JYsXHJO3ME_O-161" value="return(i);" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="92" y="4593" width="120" height="60" as="geometry" />
+          <mxGeometry x="89" y="4555" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rtyTili3JYsXHJO3ME_O-162" value="end" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="4688" width="120" height="60" as="geometry" />
