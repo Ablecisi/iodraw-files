@@ -192,7 +192,7 @@
         </mxCell>
         <mxCell id="rtyTili3JYsXHJO3ME_O-29" value="&lt;div&gt;用户身份信息及&lt;/div&gt;&lt;div&gt;查询条件&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rtyTili3JYsXHJO3ME_O-28">
           <mxGeometry x="-0.5325" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-18" y="14" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rtyTili3JYsXHJO3ME_O-9" value="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=21;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -252,6 +252,9 @@
           <mxGeometry x="-0.0422" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="rtyTili3JYsXHJO3ME_O-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.465;entryY=0.978;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rtyTili3JYsXHJO3ME_O-16" target="rtyTili3JYsXHJO3ME_O-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
