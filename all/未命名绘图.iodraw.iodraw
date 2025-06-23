@@ -582,8 +582,8 @@
         <mxCell id="rtyTili3JYsXHJO3ME_O-134" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;fontStyle=0;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-120" y="3486.5" width="395" height="414.5" as="geometry" />
         </mxCell>
-        <mxCell id="rtyTili3JYsXHJO3ME_O-135" value="&lt;div&gt;inti=0,vaid—0;//valid记录正值个数&lt;/div&gt;&lt;div&gt;float sum=0://累计&lt;/div&gt;&lt;div&gt;float mean=0://平均值&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;fontStyle=0;strokeWidth=2;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="3486.5" width="395" height="68" as="geometry" />
+        <mxCell id="rtyTili3JYsXHJO3ME_O-135" value="&lt;div&gt;&amp;nbsp; int i = 0,valid = 0;&amp;nbsp; //valid记录正值个数&lt;/div&gt;&lt;div&gt;&amp;nbsp; float sum = 0;&amp;nbsp; //累计&lt;/div&gt;&lt;div&gt;&amp;nbsp; float mean = 0;&amp;nbsp; //平均值&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;fontStyle=0;strokeWidth=2;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="3438" width="395" height="116.5" as="geometry" />
         </mxCell>
         <mxCell id="rtyTili3JYsXHJO3ME_O-136" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;fontStyle=0;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-71" y="3605.5" width="346" height="175" as="geometry" />
