@@ -450,7 +450,7 @@
         <mxCell id="rtyTili3JYsXHJO3ME_O-80" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.05;entryY=0.683;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rtyTili3JYsXHJO3ME_O-75" target="rtyTili3JYsXHJO3ME_O-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rtyTili3JYsXHJO3ME_O-87" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rtyTili3JYsXHJO3ME_O-87" value="主系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="144" y="2414" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
