@@ -295,6 +295,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="rtyTili3JYsXHJO3ME_O-54" value="遇&#39;0&#39;字符" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rtyTili3JYsXHJO3ME_O-52">
+          <mxGeometry x="0.1615" y="-2" relative="1" as="geometry">
+            <mxPoint x="-564" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="rtyTili3JYsXHJO3ME_O-42" value="do/&lt;div&gt;记录并累计零串的长度&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="rtyTili3JYsXHJO3ME_O-39">
           <mxGeometry y="60" width="160" height="42" as="geometry" />
         </mxCell>
@@ -306,6 +311,17 @@
         </mxCell>
         <mxCell id="rtyTili3JYsXHJO3ME_O-50" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="rtyTili3JYsXHJO3ME_O-48">
           <mxGeometry y="52" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="rtyTili3JYsXHJO3ME_O-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="rtyTili3JYsXHJO3ME_O-48" source="rtyTili3JYsXHJO3ME_O-51" target="rtyTili3JYsXHJO3ME_O-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-20" y="81" />
+              <mxPoint x="-20" y="40" />
+              <mxPoint x="-76" y="40" />
+              <mxPoint x="-76" y="-20" />
+              <mxPoint x="80" y="-20" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="rtyTili3JYsXHJO3ME_O-51" value="do/&lt;div&gt;记录并累计幺串的长度&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="rtyTili3JYsXHJO3ME_O-48">
           <mxGeometry y="60" width="160" height="42" as="geometry" />
