@@ -420,7 +420,7 @@
             <mxPoint x="365.8333333333335" y="2113.8333333333335" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rtyTili3JYsXHJO3ME_O-85" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rtyTili3JYsXHJO3ME_O-82">
+        <mxCell id="rtyTili3JYsXHJO3ME_O-85" value="C通路" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rtyTili3JYsXHJO3ME_O-82">
           <mxGeometry x="0.6842" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
