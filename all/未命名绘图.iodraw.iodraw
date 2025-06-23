@@ -462,6 +462,15 @@
         <mxCell id="rtyTili3JYsXHJO3ME_O-87" value="主系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="64" y="2361" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="rtyTili3JYsXHJO3ME_O-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rtyTili3JYsXHJO3ME_O-88" target="rtyTili3JYsXHJO3ME_O-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rtyTili3JYsXHJO3ME_O-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rtyTili3JYsXHJO3ME_O-88" target="rtyTili3JYsXHJO3ME_O-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rtyTili3JYsXHJO3ME_O-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rtyTili3JYsXHJO3ME_O-88" target="rtyTili3JYsXHJO3ME_O-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rtyTili3JYsXHJO3ME_O-88" value="输入控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="368" y="2493" width="120" height="60" as="geometry" />
         </mxCell>
