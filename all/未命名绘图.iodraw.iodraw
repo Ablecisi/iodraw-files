@@ -261,8 +261,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rtyTili3JYsXHJO3ME_O-34" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="269" y="1708" width="10" height="10" as="geometry" />
+        <mxCell id="rtyTili3JYsXHJO3ME_O-35" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="279" y="1832" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rtyTili3JYsXHJO3ME_O-37" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="213" y="1757" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rtyTili3JYsXHJO3ME_O-38" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="rtyTili3JYsXHJO3ME_O-37" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="228" y="1847" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
