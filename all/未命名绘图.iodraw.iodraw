@@ -553,7 +553,7 @@
           <mxGeometry x="102.5" y="2853.5" width="60" height="345" as="geometry" />
         </mxCell>
         <mxCell id="rtyTili3JYsXHJO3ME_O-125" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;text-indent: 21pt; font-size: 21px;&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 21px;&quot;&gt;&lt;font face=&quot;Calibri&quot; style=&quot;font-size: 21px;&quot;&gt;if(Data[i]&amp;lt;min)&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 21px;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=0;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="53" y="3001" width="135" height="30" as="geometry" />
+          <mxGeometry x="40" y="3001" width="172" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rtyTili3JYsXHJO3ME_O-126" value="F" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=0;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-30" y="3019" width="60" height="30" as="geometry" />
@@ -568,7 +568,7 @@
           <mxGeometry x="133" y="3056" width="172" height="57" as="geometry" />
         </mxCell>
         <mxCell id="rtyTili3JYsXHJO3ME_O-130" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 21px;&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 21px;&quot;&gt;&lt;font face=&quot;Calibri&quot; style=&quot;font-size: 21px;&quot;&gt;min=Data[i];&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=0;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="186" y="3069" width="60" height="30" as="geometry" />
+          <mxGeometry x="186" y="3069" width="123" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rtyTili3JYsXHJO3ME_O-131" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 21px;&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 21px;&quot;&gt;&lt;font face=&quot;Calibri&quot; style=&quot;font-size: 21px;&quot;&gt;i++;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=0;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="102" y="3129" width="60" height="30" as="geometry" />
