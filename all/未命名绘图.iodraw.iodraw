@@ -155,12 +155,12 @@
         <mxCell id="c2qf7OCX8ZdXggBpQYz0-31" value="同文章" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="417" y="740" width="363" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="rtyTili3JYsXHJO3ME_O-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="rtyTili3JYsXHJO3ME_O-1" target="rtyTili3JYsXHJO3ME_O-2">
+        <mxCell id="rtyTili3JYsXHJO3ME_O-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="rtyTili3JYsXHJO3ME_O-1" target="rtyTili3JYsXHJO3ME_O-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rtyTili3JYsXHJO3ME_O-6" value="用户燃气费报表" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rtyTili3JYsXHJO3ME_O-4">
           <mxGeometry x="-0.4105" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="29" y="6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rtyTili3JYsXHJO3ME_O-1" value="燃气用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -176,7 +176,7 @@
         </mxCell>
         <mxCell id="rtyTili3JYsXHJO3ME_O-5" value="用户身份信息以及查询条件" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rtyTili3JYsXHJO3ME_O-3">
           <mxGeometry x="0.1867" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-19" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
