@@ -239,8 +239,14 @@
         <mxCell id="rtyTili3JYsXHJO3ME_O-27" value="用户燃气费用数据表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="rtyTili3JYsXHJO3ME_O-26">
           <mxGeometry x="38" y="12" width="126" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="rtyTili3JYsXHJO3ME_O-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.528;entryY=-0.049;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rtyTili3JYsXHJO3ME_O-9" target="rtyTili3JYsXHJO3ME_O-27">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="rtyTili3JYsXHJO3ME_O-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.639;entryY=0.59;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rtyTili3JYsXHJO3ME_O-9" target="rtyTili3JYsXHJO3ME_O-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="317" y="1463" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="317" y="1423" />
+              <mxPoint x="316" y="1423" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
