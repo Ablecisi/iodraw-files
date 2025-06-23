@@ -474,6 +474,9 @@
         <mxCell id="rtyTili3JYsXHJO3ME_O-88" value="输入控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="368" y="2493" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="rtyTili3JYsXHJO3ME_O-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rtyTili3JYsXHJO3ME_O-89" target="rtyTili3JYsXHJO3ME_O-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rtyTili3JYsXHJO3ME_O-89" value="处理控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="64" y="2493" width="120" height="60" as="geometry" />
         </mxCell>
@@ -490,7 +493,7 @@
           <mxGeometry x="488" y="2594" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rtyTili3JYsXHJO3ME_O-100" value="处理T" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="2601" width="120" height="60" as="geometry" />
+          <mxGeometry x="64" y="2702" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
