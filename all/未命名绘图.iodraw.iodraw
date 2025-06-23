@@ -621,11 +621,11 @@
         <mxCell id="rtyTili3JYsXHJO3ME_O-147" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;fontStyle=0;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-120" y="3780.5" width="395" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rtyTili3JYsXHJO3ME_O-149" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="3841" width="190" height="61" as="geometry" />
+        <mxCell id="rtyTili3JYsXHJO3ME_O-149" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="3840.5" width="190" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="rtyTili3JYsXHJO3ME_O-150" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="3840.5" width="190" height="61" as="geometry" />
+        <mxCell id="rtyTili3JYsXHJO3ME_O-150" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="70" y="3840.5" width="203" height="61" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
