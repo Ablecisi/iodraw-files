@@ -549,8 +549,8 @@
         <mxCell id="rtyTili3JYsXHJO3ME_O-122" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-41" y="2996" width="346" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rtyTili3JYsXHJO3ME_O-124" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="107" y="3001" width="60" height="80" as="geometry" />
+        <mxCell id="rtyTili3JYsXHJO3ME_O-124" value="" style="triangle;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="90" y="2988" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
