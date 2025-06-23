@@ -504,6 +504,12 @@
         <mxCell id="rtyTili3JYsXHJO3ME_O-100" value="处理T" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="64" y="2702" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="rtyTili3JYsXHJO3ME_O-106" value="输出控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="2594" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rtyTili3JYsXHJO3ME_O-109" value="输出控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-191" y="2590" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
