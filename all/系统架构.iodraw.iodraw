@@ -4,8 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="EFfdc4vvzrJYRKTHR9fC-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EFfdc4vvzrJYRKTHR9fC-1" value="前端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EFfdc4vvzrJYRKTHR9fC-2" value="flowchart TB&#xa;    subgraph Client[前端客户端]&#xa;        A1[Android App\n(UI + Repository + ViewModel)]&#xa;        A2[Web端\n(Vue3 + Vite)]&#xa;        A3[小程序端\n(uni-app)]&#xa;    end&#xa;&#xa;&#xa;    subgraph Backend[后端服务 Spring Boot]&#xa;        B1[接口层\nREST API + JWT]&#xa;        B2[业务层\n用户管理 / 评论 / 会话 / 聊天]&#xa;        B3[数据访问层\nMyBatis + XML]&#xa;    end&#xa;&#xa;&#xa;    subgraph Data[数据存储]&#xa;        D1[(MySQL\n用户/角色/会话/消息/文章...)]&#xa;        D2[(Redis\n热门话题/缓存/状态)]&#xa;    end&#xa;&#xa;&#xa;    subgraph AI[智能模型服务]&#xa;        M1[BERT 服务\n情感分析]&#xa;        M2[ChatGLM\n自然语言生成]&#xa;    end&#xa;&#xa;&#xa;    %% 连接关系&#xa;    A1 --&gt; B1&#xa;    A2 --&gt; B1&#xa;    A3 --&gt; B1&#xa;    B1 --&gt; B2&#xa;    B2 --&gt; B3 --&gt; D1&#xa;    B2 --&gt; D2&#xa;    B2 --&gt; M1&#xa;    B2 --&gt; M2" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="360" y="130" width="320" height="540" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
