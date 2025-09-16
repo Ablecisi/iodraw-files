@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="EFfdc4vvzrJYRKTHR9fC-3" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="130" y="110" width="280" height="350" as="geometry" />
+          <mxGeometry x="130" y="110" width="670" height="350" as="geometry" />
         </mxCell>
         <mxCell id="EFfdc4vvzrJYRKTHR9fC-4" value="&lt;span style=&quot;text-wrap: nowrap; color: rgb(40, 37, 61); font-family: &amp;quot;Recursive Variable&amp;quot;, arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;Android App - UI + Repository + ViewModel&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="160" width="360" height="60" as="geometry" />
+          <mxGeometry x="150" y="160" width="340" height="50" as="geometry" />
         </mxCell>
         <mxCell id="EFfdc4vvzrJYRKTHR9fC-5" value="前端客户端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="225" y="120" width="90" height="30" as="geometry" />
