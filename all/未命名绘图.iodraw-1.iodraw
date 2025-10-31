@@ -28,6 +28,9 @@
         <mxCell id="jPtyV0jblWiEFsX8sB7K-2" value="甲方" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="130" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="jPtyV0jblWiEFsX8sB7K-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jPtyV0jblWiEFsX8sB7K-4" target="jPtyV0jblWiEFsX8sB7K-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jPtyV0jblWiEFsX8sB7K-4" value="乙方" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="410" width="120" height="60" as="geometry" />
         </mxCell>
@@ -42,6 +45,9 @@
         </mxCell>
         <mxCell id="jPtyV0jblWiEFsX8sB7K-16" value="组织架构" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="505" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jPtyV0jblWiEFsX8sB7K-18" value="项目组" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="550" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
