@@ -301,7 +301,7 @@
           <mxGeometry x="3030" y="-2480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8E2LrcIK-aLXjOjljjwB-109" value="项目" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="740" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="610" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8E2LrcIK-aLXjOjljjwB-110" value="合同" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="870" y="50" width="120" height="60" as="geometry" />
@@ -329,7 +329,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CPW1Su4_VA96P8Evmn08-6" value="线索信息、分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="-40" width="130" height="60" as="geometry" />
+          <mxGeometry x="310" y="-60" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CPW1Su4_VA96P8Evmn08-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CPW1Su4_VA96P8Evmn08-7" target="CPW1Su4_VA96P8Evmn08-15">
           <mxGeometry relative="1" as="geometry" />
