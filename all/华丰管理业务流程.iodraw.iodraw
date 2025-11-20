@@ -479,6 +479,9 @@
         <mxCell id="CPW1Su4_VA96P8Evmn08-93" value="&lt;div&gt;客户投诉&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1310" y="160" width="120" height="170" as="geometry" />
         </mxCell>
+        <mxCell id="CPW1Su4_VA96P8Evmn08-94" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
