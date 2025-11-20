@@ -193,8 +193,11 @@
         <mxCell id="8E2LrcIK-aLXjOjljjwB-74" value="区域总监" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="840" y="-630" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8E2LrcIK-aLXjOjljjwB-76" value="+" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8E2LrcIK-aLXjOjljjwB-76" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;+&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1100" y="-580" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8E2LrcIK-aLXjOjljjwB-79" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="-990" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
