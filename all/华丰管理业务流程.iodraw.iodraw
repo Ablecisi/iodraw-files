@@ -483,7 +483,7 @@
           <mxGeometry x="1170" y="310" width="530" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CPW1Su4_VA96P8Evmn08-96" value="支持服务" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1181" y="-30" width="120" height="160" as="geometry" />
+          <mxGeometry x="1181" y="170" width="120" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
