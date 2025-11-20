@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="OyiQQzUvN8jr43YZtWwP">
-    <mxGraphModel dx="4732" dy="5780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3058" dy="4806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -534,10 +534,10 @@
           <mxGeometry x="1310" y="220" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CPW1Su4_VA96P8Evmn08-116" value="构建客户关系地图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="360" width="430" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CPW1Su4_VA96P8Evmn08-117" value="构建组织架构图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1570" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="1310" y="360" width="380" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CPW1Su4_VA96P8Evmn08-118" value="构建客户权利" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="815" y="360" width="120" height="60" as="geometry" />
