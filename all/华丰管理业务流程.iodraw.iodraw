@@ -51,7 +51,7 @@
         </mxCell>
         <mxCell id="8E2LrcIK-aLXjOjljjwB-64" value="线索商机" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8E2LrcIK-aLXjOjljjwB-60">
           <mxGeometry x="-0.4754" y="-2" relative="1" as="geometry">
-            <mxPoint x="22" y="28" as="offset" />
+            <mxPoint x="2" y="68" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8E2LrcIK-aLXjOjljjwB-3" value="MTL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -297,6 +297,9 @@
         </mxCell>
         <mxCell id="8E2LrcIK-aLXjOjljjwB-102" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3030" y="-2480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8E2LrcIK-aLXjOjljjwB-103" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
