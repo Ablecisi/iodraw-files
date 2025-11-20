@@ -219,7 +219,7 @@
           <mxGeometry x="3060" y="-930" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8E2LrcIK-aLXjOjljjwB-83" value="监督人（最低，事业部门、最高总经理）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2050" y="-820" width="120" height="60" as="geometry" />
+          <mxGeometry x="2120" y="-820" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
