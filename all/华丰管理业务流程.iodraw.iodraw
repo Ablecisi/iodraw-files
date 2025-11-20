@@ -50,7 +50,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8E2LrcIK-aLXjOjljjwB-4" value="市场" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="-640" width="240" height="80" as="geometry" />
+          <mxGeometry x="-40" y="-680" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8E2LrcIK-aLXjOjljjwB-5" value="LTC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1500" y="120" width="120" height="60" as="geometry" />
@@ -86,7 +86,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8E2LrcIK-aLXjOjljjwB-37" value="市场定位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="-520" width="120" height="80" as="geometry" />
+          <mxGeometry x="-10" y="-560" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8E2LrcIK-aLXjOjljjwB-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8E2LrcIK-aLXjOjljjwB-39" target="8E2LrcIK-aLXjOjljjwB-40">
           <mxGeometry relative="1" as="geometry" />
@@ -107,7 +107,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8E2LrcIK-aLXjOjljjwB-39" value="营销策略&lt;br&gt;产品策略" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="-400" width="120" height="80" as="geometry" />
+          <mxGeometry x="-10" y="-440" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8E2LrcIK-aLXjOjljjwB-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8E2LrcIK-aLXjOjljjwB-40" target="8E2LrcIK-aLXjOjljjwB-41">
           <mxGeometry relative="1" as="geometry" />
