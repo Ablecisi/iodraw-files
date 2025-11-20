@@ -154,6 +154,11 @@
             <mxPoint x="407.5" y="-110.00000000000045" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="CPW1Su4_VA96P8Evmn08-9" value="&lt;span style=&quot;font-size: 12px; text-wrap: wrap; background-color: rgb(251, 251, 251);&quot;&gt;线索录入&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CPW1Su4_VA96P8Evmn08-5">
+          <mxGeometry x="0.2368" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="8E2LrcIK-aLXjOjljjwB-63" value="LTO" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="140" width="150" height="60" as="geometry" />
         </mxCell>
@@ -318,11 +323,11 @@
         <mxCell id="CPW1Su4_VA96P8Evmn08-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="CPW1Su4_VA96P8Evmn08-6" target="CPW1Su4_VA96P8Evmn08-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CPW1Su4_VA96P8Evmn08-6" value="线索录入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" width="150" height="60" as="geometry" />
+        <mxCell id="CPW1Su4_VA96P8Evmn08-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="-20" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CPW1Su4_VA96P8Evmn08-7" value="填写相关信息（eg.客户）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="-100" width="150" height="60" as="geometry" />
+          <mxGeometry x="370" y="-140" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
