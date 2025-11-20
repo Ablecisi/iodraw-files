@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="OyiQQzUvN8jr43YZtWwP">
-    <mxGraphModel dx="1375" dy="3826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1478" dy="3886" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -367,7 +367,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CPW1Su4_VA96P8Evmn08-6" value="线索信息、分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="-60" width="130" height="60" as="geometry" />
+          <mxGeometry x="310" y="-60" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CPW1Su4_VA96P8Evmn08-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CPW1Su4_VA96P8Evmn08-7" target="CPW1Su4_VA96P8Evmn08-15">
           <mxGeometry relative="1" as="geometry" />
@@ -388,6 +388,11 @@
         </mxCell>
         <mxCell id="CPW1Su4_VA96P8Evmn08-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CPW1Su4_VA96P8Evmn08-27" target="CPW1Su4_VA96P8Evmn08-46">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CPW1Su4_VA96P8Evmn08-48" value="样品管理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CPW1Su4_VA96P8Evmn08-47">
+          <mxGeometry x="-0.6241" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="CPW1Su4_VA96P8Evmn08-27" value="机会点" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="-130" width="90" height="40" as="geometry" />
