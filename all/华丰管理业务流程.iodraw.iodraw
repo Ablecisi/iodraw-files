@@ -159,6 +159,9 @@
         <mxCell id="8E2LrcIK-aLXjOjljjwB-41" value="展厅展会" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-10" y="-40" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="8E2LrcIK-aLXjOjljjwB-63" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
