@@ -503,8 +503,8 @@
         <mxCell id="CPW1Su4_VA96P8Evmn08-101" value="实物处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1439.5" y="220" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="CPW1Su4_VA96P8Evmn08-103" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1365" y="-2" width="50" height="30" as="geometry" />
+        <mxCell id="CPW1Su4_VA96P8Evmn08-103" value="&lt;div style=&quot;text-wrap: wrap;&quot;&gt;非质量类投诉&lt;/div&gt;&lt;div style=&quot;text-wrap: wrap;&quot;&gt;质量类投诉&lt;/div&gt;&lt;div style=&quot;text-wrap: wrap;&quot;&gt;实物处理&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="-110" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
