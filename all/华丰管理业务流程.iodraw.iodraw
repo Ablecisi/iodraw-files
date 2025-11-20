@@ -10,7 +10,7 @@
         <mxCell id="8E2LrcIK-aLXjOjljjwB-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="110" width="640" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="8E2LrcIK-aLXjOjljjwB-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8E2LrcIK-aLXjOjljjwB-3" value="MTL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
