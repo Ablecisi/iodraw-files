@@ -387,7 +387,7 @@
           <mxGeometry x="460" y="-760" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CPW1Su4_VA96P8Evmn08-27" value="机会点" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="-440" width="90" height="40" as="geometry" />
+          <mxGeometry x="460" y="-440" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CPW1Su4_VA96P8Evmn08-46" value="样品管理" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="-400" width="90" height="40" as="geometry" />
@@ -397,6 +397,9 @@
         </mxCell>
         <mxCell id="CPW1Su4_VA96P8Evmn08-59" value="报价提交" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="-360" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CPW1Su4_VA96P8Evmn08-60" value="投标管理" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="-320" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
