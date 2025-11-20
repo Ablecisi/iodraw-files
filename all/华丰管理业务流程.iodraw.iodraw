@@ -329,13 +329,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CPW1Su4_VA96P8Evmn08-6" value="线索信息、分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="-40" width="150" height="60" as="geometry" />
+          <mxGeometry x="290" y="-40" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CPW1Su4_VA96P8Evmn08-7" value="线索" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="-170" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="CPW1Su4_VA96P8Evmn08-14" value="商机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="-340" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
