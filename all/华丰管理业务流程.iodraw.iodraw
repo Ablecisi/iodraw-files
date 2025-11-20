@@ -318,8 +318,8 @@
         <mxCell id="CPW1Su4_VA96P8Evmn08-6" value="线索录入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="-180" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CPW1Su4_VA96P8Evmn08-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="-430" width="120" height="60" as="geometry" />
+        <mxCell id="CPW1Su4_VA96P8Evmn08-7" value="填写相关信息（e.g.客户）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="-430" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
