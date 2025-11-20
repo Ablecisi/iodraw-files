@@ -300,6 +300,14 @@
         <mxCell id="8E2LrcIK-aLXjOjljjwB-102" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3030" y="-2480" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="CPW1Su4_VA96P8Evmn08-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8E2LrcIK-aLXjOjljjwB-109" target="CPW1Su4_VA96P8Evmn08-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CPW1Su4_VA96P8Evmn08-29" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CPW1Su4_VA96P8Evmn08-28">
+          <mxGeometry x="-0.5134" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="8E2LrcIK-aLXjOjljjwB-109" value="项目" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="-360" width="90" height="50" as="geometry" />
         </mxCell>
@@ -349,7 +357,7 @@
           <mxGeometry x="460" y="-470" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CPW1Su4_VA96P8Evmn08-27" value="机会点" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="-180" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="-180" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
