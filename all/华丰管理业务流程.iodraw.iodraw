@@ -401,7 +401,7 @@
         </mxCell>
         <mxCell id="CPW1Su4_VA96P8Evmn08-50" value="投标管理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CPW1Su4_VA96P8Evmn08-47">
           <mxGeometry x="0.2463" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CPW1Su4_VA96P8Evmn08-27" value="机会点" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -410,8 +410,8 @@
         <mxCell id="CPW1Su4_VA96P8Evmn08-46" value="合同" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="-290" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="CPW1Su4_VA96P8Evmn08-54" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="-130" width="120" height="60" as="geometry" />
+        <mxCell id="CPW1Su4_VA96P8Evmn08-54" value="订单" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="-130" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
