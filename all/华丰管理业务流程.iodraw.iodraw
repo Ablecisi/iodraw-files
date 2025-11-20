@@ -147,6 +147,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="CPW1Su4_VA96P8Evmn08-123" value="线索" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CPW1Su4_VA96P8Evmn08-121">
+          <mxGeometry x="-0.9409" y="-5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="8E2LrcIK-aLXjOjljjwB-41" value="展厅展会" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-10" y="-160" width="120" height="80" as="geometry" />
         </mxCell>
