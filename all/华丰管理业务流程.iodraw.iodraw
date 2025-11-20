@@ -448,6 +448,11 @@
             <mxPoint x="-1" y="-58" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="CPW1Su4_VA96P8Evmn08-89" value="询证函" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CPW1Su4_VA96P8Evmn08-86">
+          <mxGeometry x="-0.7805" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="CPW1Su4_VA96P8Evmn08-76" value="&lt;br&gt;&lt;br&gt;应收账款&lt;br&gt;&lt;br&gt;认款&lt;br&gt;&lt;br&gt;逾期账款&lt;br&gt;&lt;br&gt;询证函&lt;br&gt;&lt;br&gt;调账、坏账" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="140" width="190" height="190" as="geometry" />
         </mxCell>
