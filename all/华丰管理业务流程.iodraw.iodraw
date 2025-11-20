@@ -166,11 +166,17 @@
         <mxCell id="8E2LrcIK-aLXjOjljjwB-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8E2LrcIK-aLXjOjljjwB-68" target="8E2LrcIK-aLXjOjljjwB-69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="8E2LrcIK-aLXjOjljjwB-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8E2LrcIK-aLXjOjljjwB-68" target="8E2LrcIK-aLXjOjljjwB-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8E2LrcIK-aLXjOjljjwB-68" value="线索录入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="-570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8E2LrcIK-aLXjOjljjwB-69" value="事业部销售部经理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="-630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8E2LrcIK-aLXjOjljjwB-72" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="-520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
