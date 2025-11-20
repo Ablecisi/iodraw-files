@@ -119,6 +119,11 @@
         </mxCell>
         <mxCell id="8E2LrcIK-aLXjOjljjwB-55" value="展厅建设" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8E2LrcIK-aLXjOjljjwB-50">
           <mxGeometry x="0.2167" y="-3" relative="1" as="geometry">
+            <mxPoint x="3" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8E2LrcIK-aLXjOjljjwB-56" value="展厅接待" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8E2LrcIK-aLXjOjljjwB-50">
+          <mxGeometry x="0.4667" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
