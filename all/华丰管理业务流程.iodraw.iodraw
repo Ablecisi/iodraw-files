@@ -536,6 +536,9 @@
         <mxCell id="CPW1Su4_VA96P8Evmn08-116" value="构建客户关系地图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="360" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="CPW1Su4_VA96P8Evmn08-117" value="构建组织架构图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
