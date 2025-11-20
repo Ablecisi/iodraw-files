@@ -57,7 +57,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8E2LrcIK-aLXjOjljjwB-3" value="MTL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="130" width="220" height="180" as="geometry" />
+          <mxGeometry x="50" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8E2LrcIK-aLXjOjljjwB-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8E2LrcIK-aLXjOjljjwB-4" target="8E2LrcIK-aLXjOjljjwB-37">
           <mxGeometry relative="1" as="geometry" />
@@ -65,7 +65,7 @@
         <mxCell id="8E2LrcIK-aLXjOjljjwB-4" value="市场" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="-680" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8E2LrcIK-aLXjOjljjwB-5" value="LTC（线索到回款）【线索：市场活动中获取的潜在客户信息】" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8E2LrcIK-aLXjOjljjwB-5" value="LTC（线索到回款）【线索：市场活动中获取的潜在客户信息】&lt;br&gt;【商机：极有可能达成交易的机会】" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="130" width="420" height="200" as="geometry" />
         </mxCell>
         <mxCell id="8E2LrcIK-aLXjOjljjwB-6" value="ITR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
