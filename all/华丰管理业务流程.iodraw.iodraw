@@ -17,12 +17,12 @@
         </mxCell>
         <mxCell id="8E2LrcIK-aLXjOjljjwB-29" value="行业分析" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8E2LrcIK-aLXjOjljjwB-16">
           <mxGeometry x="-0.4248" y="2" relative="1" as="geometry">
-            <mxPoint x="22" y="23" as="offset" />
+            <mxPoint x="22" y="-17" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8E2LrcIK-aLXjOjljjwB-30" value="市场分析" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8E2LrcIK-aLXjOjljjwB-16">
           <mxGeometry x="-0.0938" relative="1" as="geometry">
-            <mxPoint x="20" y="1" as="offset" />
+            <mxPoint x="20" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8E2LrcIK-aLXjOjljjwB-31" value="竞对分析" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8E2LrcIK-aLXjOjljjwB-16">
@@ -37,7 +37,7 @@
         </mxCell>
         <mxCell id="8E2LrcIK-aLXjOjljjwB-33" value="优劣势分析" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8E2LrcIK-aLXjOjljjwB-16">
           <mxGeometry x="0.8028" y="1" relative="1" as="geometry">
-            <mxPoint x="31" y="-9" as="offset" />
+            <mxPoint x="31" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8E2LrcIK-aLXjOjljjwB-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="8E2LrcIK-aLXjOjljjwB-3" target="8E2LrcIK-aLXjOjljjwB-19">
