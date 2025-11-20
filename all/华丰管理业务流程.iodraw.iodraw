@@ -48,12 +48,12 @@
         </mxCell>
         <mxCell id="8E2LrcIK-aLXjOjljjwB-61" value="商机" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8E2LrcIK-aLXjOjljjwB-60">
           <mxGeometry x="-0.0463" y="-3" relative="1" as="geometry">
-            <mxPoint x="-31" y="7" as="offset" />
+            <mxPoint x="49" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8E2LrcIK-aLXjOjljjwB-62" value="线索" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8E2LrcIK-aLXjOjljjwB-60">
           <mxGeometry x="0.2063" y="-1" relative="1" as="geometry">
-            <mxPoint x="5" y="-11" as="offset" />
+            <mxPoint x="-75" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8E2LrcIK-aLXjOjljjwB-3" value="MTL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
