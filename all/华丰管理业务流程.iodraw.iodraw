@@ -315,8 +315,18 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CPW1Su4_VA96P8Evmn08-23" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CPW1Su4_VA96P8Evmn08-20">
+        <mxCell id="CPW1Su4_VA96P8Evmn08-23" value="项目变更&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CPW1Su4_VA96P8Evmn08-20">
           <mxGeometry x="0.0632" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CPW1Su4_VA96P8Evmn08-24" value="项目结案" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CPW1Su4_VA96P8Evmn08-20">
+          <mxGeometry x="0.3976" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CPW1Su4_VA96P8Evmn08-25" value="项目激励" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CPW1Su4_VA96P8Evmn08-20">
+          <mxGeometry x="0.6073" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
