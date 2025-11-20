@@ -56,7 +56,7 @@
           <mxGeometry x="360" y="130" width="760" height="210" as="geometry" />
         </mxCell>
         <mxCell id="8E2LrcIK-aLXjOjljjwB-6" value="ITR" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;" parent="1" vertex="1">
-          <mxGeometry x="1130" y="130" width="570" height="210" as="geometry" />
+          <mxGeometry x="1170" y="130" width="530" height="210" as="geometry" />
         </mxCell>
         <mxCell id="8E2LrcIK-aLXjOjljjwB-9" value="MCR" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="570" width="1650" height="60" as="geometry" />
@@ -471,13 +471,13 @@
           <mxGeometry x="1140" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CPW1Su4_VA96P8Evmn08-91" value="三包管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1570" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="1440" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CPW1Su4_VA96P8Evmn08-92" value="售后服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1570" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="1570" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CPW1Su4_VA96P8Evmn08-93" value="&lt;div&gt;客户投诉&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1390" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="1270" y="140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
