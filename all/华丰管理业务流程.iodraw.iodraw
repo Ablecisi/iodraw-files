@@ -32,12 +32,12 @@
         </mxCell>
         <mxCell id="8E2LrcIK-aLXjOjljjwB-32" value="产品分析" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8E2LrcIK-aLXjOjljjwB-16">
           <mxGeometry x="0.52" y="-1" relative="1" as="geometry">
-            <mxPoint x="19" as="offset" />
+            <mxPoint x="9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8E2LrcIK-aLXjOjljjwB-33" value="优劣势分析" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8E2LrcIK-aLXjOjljjwB-16">
           <mxGeometry x="0.8028" y="1" relative="1" as="geometry">
-            <mxPoint x="31" as="offset" />
+            <mxPoint x="21" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8E2LrcIK-aLXjOjljjwB-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="8E2LrcIK-aLXjOjljjwB-3" target="8E2LrcIK-aLXjOjljjwB-19">
