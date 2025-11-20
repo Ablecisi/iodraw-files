@@ -218,7 +218,7 @@
         <mxCell id="8E2LrcIK-aLXjOjljjwB-80" value="结束" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="3060" y="-930" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8E2LrcIK-aLXjOjljjwB-83" value="监督人" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8E2LrcIK-aLXjOjljjwB-83" value="监督人（最低，销售部门、最高总经理）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2050" y="-820" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
