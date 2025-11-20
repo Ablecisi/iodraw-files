@@ -32,7 +32,7 @@
           <mxGeometry x="50" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8E2LrcIK-aLXjOjljjwB-10" value="产品库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="210" y="230" width="60" height="80" as="geometry" />
+          <mxGeometry x="40" y="320" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8E2LrcIK-aLXjOjljjwB-11" value="客户库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="310" y="230" width="60" height="80" as="geometry" />
@@ -42,6 +42,9 @@
         </mxCell>
         <mxCell id="8E2LrcIK-aLXjOjljjwB-13" value="合作商库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="500" y="230" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8E2LrcIK-aLXjOjljjwB-14" value="华丰信息库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="600" y="230" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
