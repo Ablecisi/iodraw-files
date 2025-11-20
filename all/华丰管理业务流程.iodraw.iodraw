@@ -221,8 +221,11 @@
         <mxCell id="8E2LrcIK-aLXjOjljjwB-83" value="监督人（最低，事业部门、最高总经理）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2120" y="-820" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8E2LrcIK-aLXjOjljjwB-84" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8E2LrcIK-aLXjOjljjwB-84" value="知会相关人员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1930" y="-820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8E2LrcIK-aLXjOjljjwB-85" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2340" y="-820" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
