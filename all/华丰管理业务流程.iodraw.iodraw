@@ -8,7 +8,7 @@
           <mxGeometry x="30" y="1360" width="290" height="300" as="geometry" />
         </mxCell>
         <mxCell id="8E2LrcIK-aLXjOjljjwB-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="120" width="1670" height="750" as="geometry" />
+          <mxGeometry x="40" y="110" width="1670" height="750" as="geometry" />
         </mxCell>
         <mxCell id="8E2LrcIK-aLXjOjljjwB-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="8E2LrcIK-aLXjOjljjwB-3" target="8E2LrcIK-aLXjOjljjwB-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -537,10 +537,10 @@
           <mxGeometry x="60" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CPW1Su4_VA96P8Evmn08-117" value="构建组织架构图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CPW1Su4_VA96P8Evmn08-118" value="构建客户权利" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="815" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
