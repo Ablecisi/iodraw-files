@@ -244,7 +244,7 @@
             <mxPoint x="2330.074074074074" y="-650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8E2LrcIK-aLXjOjljjwB-90" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="8E2LrcIK-aLXjOjljjwB-90" value="监听线下评审" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="2290" y="-830" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
