@@ -468,10 +468,16 @@
           <mxGeometry x="975" y="-195" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CPW1Su4_VA96P8Evmn08-90" value="支持服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="1390" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CPW1Su4_VA96P8Evmn08-91" value="支持服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1570" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CPW1Su4_VA96P8Evmn08-92" value="支持服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CPW1Su4_VA96P8Evmn08-93" value="支持服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
