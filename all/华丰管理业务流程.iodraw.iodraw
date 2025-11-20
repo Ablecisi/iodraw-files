@@ -503,11 +503,14 @@
         <mxCell id="CPW1Su4_VA96P8Evmn08-101" value="实物处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1439.5" y="220" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="CPW1Su4_VA96P8Evmn08-104" value="&lt;div&gt;非质量类投诉&lt;/div&gt;&lt;div&gt;质量类投诉&lt;/div&gt;&lt;div&gt;实物处理&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CPW1Su4_VA96P8Evmn08-104" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;实物处理&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1220" y="-120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CPW1Su4_VA96P8Evmn08-105" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1310" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="1310" y="140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CPW1Su4_VA96P8Evmn08-106" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="220" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
