@@ -75,19 +75,19 @@
           <mxGeometry x="50" y="350" width="1650" height="160" as="geometry" />
         </mxCell>
         <mxCell id="8E2LrcIK-aLXjOjljjwB-10" value="产品库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="40" y="640" width="165" height="220" as="geometry" />
+          <mxGeometry x="462.5" y="640" width="165" height="220" as="geometry" />
         </mxCell>
         <mxCell id="8E2LrcIK-aLXjOjljjwB-11" value="客户库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="205" y="640" width="165" height="220" as="geometry" />
+          <mxGeometry x="627.5" y="640" width="165" height="220" as="geometry" />
         </mxCell>
         <mxCell id="8E2LrcIK-aLXjOjljjwB-12" value="竞对库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="370" y="640" width="165" height="220" as="geometry" />
+          <mxGeometry x="792.5" y="640" width="165" height="220" as="geometry" />
         </mxCell>
         <mxCell id="8E2LrcIK-aLXjOjljjwB-13" value="合作商库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="535" y="640" width="165" height="220" as="geometry" />
+          <mxGeometry x="957.5" y="640" width="165" height="220" as="geometry" />
         </mxCell>
         <mxCell id="8E2LrcIK-aLXjOjljjwB-14" value="华丰信息库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="700" y="640" width="165" height="220" as="geometry" />
+          <mxGeometry x="1122.5" y="640" width="165" height="220" as="geometry" />
         </mxCell>
         <mxCell id="8E2LrcIK-aLXjOjljjwB-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8E2LrcIK-aLXjOjljjwB-37" target="8E2LrcIK-aLXjOjljjwB-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
