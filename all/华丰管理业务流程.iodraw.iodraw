@@ -534,13 +534,13 @@
           <mxGeometry x="1310" y="220" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CPW1Su4_VA96P8Evmn08-116" value="构建客户关系地图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="360" width="430" height="60" as="geometry" />
+          <mxGeometry x="60" y="360" width="540" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CPW1Su4_VA96P8Evmn08-117" value="构建组织架构图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1310" y="360" width="380" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CPW1Su4_VA96P8Evmn08-118" value="构建客户权利" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="360" width="670" height="60" as="geometry" />
+          <mxGeometry x="600" y="360" width="580" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
