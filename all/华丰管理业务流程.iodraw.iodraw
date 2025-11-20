@@ -304,13 +304,13 @@
           <mxGeometry x="460" y="-360" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8E2LrcIK-aLXjOjljjwB-110" value="合同" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="870" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="860" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8E2LrcIK-aLXjOjljjwB-111" value="订单" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="990" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8E2LrcIK-aLXjOjljjwB-112" value="账款" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1040" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="1120.5" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CPW1Su4_VA96P8Evmn08-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.005;entryY=0.579;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8E2LrcIK-aLXjOjljjwB-3" target="8E2LrcIK-aLXjOjljjwB-63">
           <mxGeometry relative="1" as="geometry" />
@@ -341,6 +341,9 @@
         </mxCell>
         <mxCell id="CPW1Su4_VA96P8Evmn08-7" value="线索" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="-610" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CPW1Su4_VA96P8Evmn08-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CPW1Su4_VA96P8Evmn08-15" target="8E2LrcIK-aLXjOjljjwB-109">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CPW1Su4_VA96P8Evmn08-15" value="商机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="-470" width="90" height="60" as="geometry" />
