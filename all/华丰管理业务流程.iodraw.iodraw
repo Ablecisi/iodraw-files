@@ -494,8 +494,11 @@
         <mxCell id="CPW1Su4_VA96P8Evmn08-99" value="&lt;div&gt;售后服务计划&lt;/div&gt;&lt;div&gt;服务实施&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="1570" y="170" width="120" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="CPW1Su4_VA96P8Evmn08-100" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="170" width="120" height="60" as="geometry" />
+        <mxCell id="CPW1Su4_VA96P8Evmn08-100" value="&lt;div&gt;三包申请&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="170" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CPW1Su4_VA96P8Evmn08-101" value="实物处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="230" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
