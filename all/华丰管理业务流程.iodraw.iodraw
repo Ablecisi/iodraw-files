@@ -556,7 +556,7 @@
           <mxGeometry width="1650" height="30" as="geometry" />
         </mxCell>
         <mxCell id="THTYN0OgVKWmJendAl8h-2" value="" style="group" vertex="1" connectable="0" parent="CPW1Su4_VA96P8Evmn08-139">
-          <mxGeometry x="10" y="520" width="1650" height="220" as="geometry" />
+          <mxGeometry x="10" y="290" width="1650" height="220" as="geometry" />
         </mxCell>
         <mxCell id="8E2LrcIK-aLXjOjljjwB-10" value="产品库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="THTYN0OgVKWmJendAl8h-2" vertex="1">
           <mxGeometry width="165" height="220" as="geometry" />
