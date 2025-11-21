@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="OyiQQzUvN8jr43YZtWwP">
-    <mxGraphModel dx="2389" dy="4416" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2471" dy="4464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -454,9 +454,6 @@
         <mxCell id="8E2LrcIK-aLXjOjljjwB-6" value="" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;" parent="CPW1Su4_VA96P8Evmn08-139" vertex="1">
           <mxGeometry x="1130" y="20" width="530" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="8E2LrcIK-aLXjOjljjwB-9" value="MCR" style="rounded=0;whiteSpace=wrap;html=1;" parent="CPW1Su4_VA96P8Evmn08-139" vertex="1">
-          <mxGeometry x="10" y="240" width="1650" height="160" as="geometry" />
-        </mxCell>
         <mxCell id="8E2LrcIK-aLXjOjljjwB-10" value="产品库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="CPW1Su4_VA96P8Evmn08-139" vertex="1">
           <mxGeometry x="10" y="520" width="165" height="220" as="geometry" />
         </mxCell>
@@ -555,17 +552,23 @@
         <mxCell id="CPW1Su4_VA96P8Evmn08-106" value="实物处理" style="rounded=0;whiteSpace=wrap;html=1;" parent="CPW1Su4_VA96P8Evmn08-139" vertex="1">
           <mxGeometry x="1270" y="110" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="CPW1Su4_VA96P8Evmn08-116" value="客户关系地图" style="rounded=0;whiteSpace=wrap;html=1;" parent="CPW1Su4_VA96P8Evmn08-139" vertex="1">
-          <mxGeometry x="10" y="280" width="540" height="120" as="geometry" />
+        <mxCell id="THTYN0OgVKWmJendAl8h-1" value="" style="group" vertex="1" connectable="0" parent="CPW1Su4_VA96P8Evmn08-139">
+          <mxGeometry x="10" y="240" width="1650" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="CPW1Su4_VA96P8Evmn08-117" value="组织架构图" style="rounded=0;whiteSpace=wrap;html=1;" parent="CPW1Su4_VA96P8Evmn08-139" vertex="1">
-          <mxGeometry x="1120" y="280" width="540" height="120" as="geometry" />
+        <mxCell id="8E2LrcIK-aLXjOjljjwB-9" value="MCR" style="rounded=0;whiteSpace=wrap;html=1;" parent="THTYN0OgVKWmJendAl8h-1" vertex="1">
+          <mxGeometry width="1650" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="CPW1Su4_VA96P8Evmn08-118" value="客户权利" style="rounded=0;whiteSpace=wrap;html=1;" parent="CPW1Su4_VA96P8Evmn08-139" vertex="1">
-          <mxGeometry x="560" y="280" width="550" height="120" as="geometry" />
+        <mxCell id="CPW1Su4_VA96P8Evmn08-116" value="客户关系地图" style="rounded=0;whiteSpace=wrap;html=1;" parent="THTYN0OgVKWmJendAl8h-1" vertex="1">
+          <mxGeometry y="40" width="540" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="CPW1Su4_VA96P8Evmn08-119" value="MCR" style="rounded=0;whiteSpace=wrap;html=1;" parent="CPW1Su4_VA96P8Evmn08-139" vertex="1">
-          <mxGeometry x="10" y="240" width="1650" height="30" as="geometry" />
+        <mxCell id="CPW1Su4_VA96P8Evmn08-117" value="组织架构图" style="rounded=0;whiteSpace=wrap;html=1;" parent="THTYN0OgVKWmJendAl8h-1" vertex="1">
+          <mxGeometry x="1110" y="40" width="540" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="CPW1Su4_VA96P8Evmn08-118" value="客户权利" style="rounded=0;whiteSpace=wrap;html=1;" parent="THTYN0OgVKWmJendAl8h-1" vertex="1">
+          <mxGeometry x="550" y="40" width="550" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="CPW1Su4_VA96P8Evmn08-119" value="MCR" style="rounded=0;whiteSpace=wrap;html=1;" parent="THTYN0OgVKWmJendAl8h-1" vertex="1">
+          <mxGeometry width="1650" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
