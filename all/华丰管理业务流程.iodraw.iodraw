@@ -561,9 +561,6 @@
         <mxCell id="THTYN0OgVKWmJendAl8h-2" value="" style="group" vertex="1" connectable="0" parent="THTYN0OgVKWmJendAl8h-3">
           <mxGeometry width="1650" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="8E2LrcIK-aLXjOjljjwB-12" value="竞对库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="THTYN0OgVKWmJendAl8h-2" vertex="1">
-          <mxGeometry x="742.5" width="165" height="220" as="geometry" />
-        </mxCell>
         <mxCell id="8E2LrcIK-aLXjOjljjwB-13" value="合作商库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="THTYN0OgVKWmJendAl8h-2" vertex="1">
           <mxGeometry x="1110" width="165" height="220" as="geometry" />
         </mxCell>
@@ -582,8 +579,11 @@
         <mxCell id="THTYN0OgVKWmJendAl8h-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="CPW1Su4_VA96P8Evmn08-139" source="8E2LrcIK-aLXjOjljjwB-11" target="8E2LrcIK-aLXjOjljjwB-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="THTYN0OgVKWmJendAl8h-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.145;exitY=0;exitDx=0;exitDy=4.35;exitPerimeter=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="CPW1Su4_VA96P8Evmn08-139" source="8E2LrcIK-aLXjOjljjwB-10" target="8E2LrcIK-aLXjOjljjwB-5">
+        <mxCell id="THTYN0OgVKWmJendAl8h-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.145;exitY=0;exitDx=0;exitDy=4.35;exitPerimeter=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="CPW1Su4_VA96P8Evmn08-139" source="8E2LrcIK-aLXjOjljjwB-10" target="8E2LrcIK-aLXjOjljjwB-5">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8E2LrcIK-aLXjOjljjwB-12" value="竞对库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="CPW1Su4_VA96P8Evmn08-139" vertex="1">
+          <mxGeometry x="210" y="300" width="165" height="220" as="geometry" />
         </mxCell>
         <mxCell id="THTYN0OgVKWmJendAl8h-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="CPW1Su4_VA96P8Evmn08-138" source="CPW1Su4_VA96P8Evmn08-80" target="8E2LrcIK-aLXjOjljjwB-11">
           <mxGeometry relative="1" as="geometry">
