@@ -590,6 +590,9 @@
         <mxCell id="8E2LrcIK-aLXjOjljjwB-12" value="竞对库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="THTYN0OgVKWmJendAl8h-16" vertex="1">
           <mxGeometry x="200" width="165" height="220" as="geometry" />
         </mxCell>
+        <mxCell id="THTYN0OgVKWmJendAl8h-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="CPW1Su4_VA96P8Evmn08-139" source="8E2LrcIK-aLXjOjljjwB-14" target="8E2LrcIK-aLXjOjljjwB-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8E2LrcIK-aLXjOjljjwB-14" value="华丰信息库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="CPW1Su4_VA96P8Evmn08-139" vertex="1">
           <mxGeometry x="700" y="300" width="165" height="220" as="geometry" />
         </mxCell>
