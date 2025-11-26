@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="6scQQ6M8cwuWP_4sEAw7">
-    <mxGraphModel dx="4298" dy="3185" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1492" dy="1555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,7 +26,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ExWru1HyYNCReK6B7PfG-3" value="需求设计阶段" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ExWru1HyYNCReK6B7PfG-4" value="质里管理部制定规范/模板" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="90" width="120" height="60" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ExWru1HyYNCReK6B7PfG-8" value="开发执行阶段" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ExWru1HyYNCReK6B7PfG-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ExWru1HyYNCReK6B7PfG-10" target="ExWru1HyYNCReK6B7PfG-12">
           <mxGeometry relative="1" as="geometry" />
@@ -47,7 +47,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ExWru1HyYNCReK6B7PfG-10" value="阶段质量评审" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ExWru1HyYNCReK6B7PfG-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ExWru1HyYNCReK6B7PfG-12" target="ExWru1HyYNCReK6B7PfG-14">
           <mxGeometry relative="1" as="geometry" />
@@ -56,13 +56,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ExWru1HyYNCReK6B7PfG-12" value="测试和验收" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ExWru1HyYNCReK6B7PfG-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ExWru1HyYNCReK6B7PfG-14" target="ExWru1HyYNCReK6B7PfG-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ExWru1HyYNCReK6B7PfG-14" value="项目收尾" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="800" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ExWru1HyYNCReK6B7PfG-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ExWru1HyYNCReK6B7PfG-16" target="ExWru1HyYNCReK6B7PfG-18">
           <mxGeometry relative="1" as="geometry" />
@@ -71,43 +71,43 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ExWru1HyYNCReK6B7PfG-16" value="质量复盘" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="940" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="940" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ExWru1HyYNCReK6B7PfG-18" value="持续改进" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="1080" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ExWru1HyYNCReK6B7PfG-20" value="质量数据归档" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="940" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="940" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ExWru1HyYNCReK6B7PfG-22" value="质量管理部：验收评估" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ExWru1HyYNCReK6B7PfG-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ExWru1HyYNCReK6B7PfG-24" target="ExWru1HyYNCReK6B7PfG-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ExWru1HyYNCReK6B7PfG-24" value="质量评审委员会阶段审核" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ExWru1HyYNCReK6B7PfG-27" value="质量评分、奖金/绩效" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="740" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ExWru1HyYNCReK6B7PfG-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ExWru1HyYNCReK6B7PfG-29" target="ExWru1HyYNCReK6B7PfG-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ExWru1HyYNCReK6B7PfG-29" value="质量管理部：过程监控/周度评分" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ExWru1HyYNCReK6B7PfG-31" value="项目成员：质量终身责任制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="740" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ExWru1HyYNCReK6B7PfG-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ExWru1HyYNCReK6B7PfG-33" target="ExWru1HyYNCReK6B7PfG-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ExWru1HyYNCReK6B7PfG-33" value="质量评审委员会指定项目把关人" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ExWru1HyYNCReK6B7PfG-35" value="项目经理：全生命周期负责" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="-140" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
