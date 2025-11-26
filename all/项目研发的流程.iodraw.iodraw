@@ -127,8 +127,20 @@
         <mxCell id="1rGQfbZzGGpnS2KYaqq9-4" value="需求阶段" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1590" y="230" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="1rGQfbZzGGpnS2KYaqq9-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1rGQfbZzGGpnS2KYaqq9-6" target="1rGQfbZzGGpnS2KYaqq9-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1rGQfbZzGGpnS2KYaqq9-6" value="设计阶段" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1590" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1rGQfbZzGGpnS2KYaqq9-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1rGQfbZzGGpnS2KYaqq9-8" target="1rGQfbZzGGpnS2KYaqq9-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1rGQfbZzGGpnS2KYaqq9-8" value="开发阶段" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1590" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1rGQfbZzGGpnS2KYaqq9-10" value="设计阶段" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1590" y="650" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
