@@ -86,10 +86,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ExWru1HyYNCReK6B7PfG-24" value="质量评审委员会阶段审核" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ExWru1HyYNCReK6B7PfG-27" value="质量评分、奖金/绩效" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="-40" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ExWru1HyYNCReK6B7PfG-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ExWru1HyYNCReK6B7PfG-29" target="ExWru1HyYNCReK6B7PfG-31">
           <mxGeometry relative="1" as="geometry" />
