@@ -40,8 +40,20 @@
         <mxCell id="ExWru1HyYNCReK6B7PfG-10" value="阶段质量评审" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="370" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ExWru1HyYNCReK6B7PfG-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ExWru1HyYNCReK6B7PfG-12" target="ExWru1HyYNCReK6B7PfG-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ExWru1HyYNCReK6B7PfG-12" value="测试和验收" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ExWru1HyYNCReK6B7PfG-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ExWru1HyYNCReK6B7PfG-14" target="ExWru1HyYNCReK6B7PfG-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ExWru1HyYNCReK6B7PfG-14" value="项目收尾" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ExWru1HyYNCReK6B7PfG-16" value="项目收尾" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="790" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
