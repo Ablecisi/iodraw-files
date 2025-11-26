@@ -29,7 +29,7 @@
           <mxGeometry x="360" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ExWru1HyYNCReK6B7PfG-4" value="质里管理部制定规范/模板" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ExWru1HyYNCReK6B7PfG-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ExWru1HyYNCReK6B7PfG-8" target="ExWru1HyYNCReK6B7PfG-10">
           <mxGeometry relative="1" as="geometry" />
@@ -104,10 +104,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ExWru1HyYNCReK6B7PfG-33" value="质量评审委员会指定项目把关人" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ExWru1HyYNCReK6B7PfG-35" value="项目经理：全生命周期负责" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="-40" y="230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
