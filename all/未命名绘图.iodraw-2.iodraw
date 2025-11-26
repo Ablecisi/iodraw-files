@@ -55,11 +55,17 @@
         <mxCell id="ExWru1HyYNCReK6B7PfG-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ExWru1HyYNCReK6B7PfG-16" target="ExWru1HyYNCReK6B7PfG-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ExWru1HyYNCReK6B7PfG-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ExWru1HyYNCReK6B7PfG-16" target="ExWru1HyYNCReK6B7PfG-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ExWru1HyYNCReK6B7PfG-16" value="质量复盘" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ExWru1HyYNCReK6B7PfG-18" value="持续改进" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ExWru1HyYNCReK6B7PfG-20" value="质量数据归档" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="790" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
