@@ -52,7 +52,7 @@
         <mxCell id="ExWru1HyYNCReK6B7PfG-14" value="项目收尾" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ExWru1HyYNCReK6B7PfG-16" value="项目收尾" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ExWru1HyYNCReK6B7PfG-16" value="质量复盘" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="790" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
