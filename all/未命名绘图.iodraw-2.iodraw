@@ -82,7 +82,7 @@
         <mxCell id="ExWru1HyYNCReK6B7PfG-24" value="质量评审委员会阶段审核" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ExWru1HyYNCReK6B7PfG-27" value="质量评分、奖金/精效" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ExWru1HyYNCReK6B7PfG-27" value="质量评分、奖金/绩效" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
