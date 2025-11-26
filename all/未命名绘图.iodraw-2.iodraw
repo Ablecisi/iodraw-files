@@ -100,7 +100,7 @@
         <mxCell id="ExWru1HyYNCReK6B7PfG-31" value="项目成员：质量终身责任制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ExWru1HyYNCReK6B7PfG-33" value="需求设计阶段" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ExWru1HyYNCReK6B7PfG-33" value="质量评审委员会指定项目把关人" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-80" y="90" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
