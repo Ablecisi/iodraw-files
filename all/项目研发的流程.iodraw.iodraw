@@ -124,10 +124,10 @@
         <mxCell id="1rGQfbZzGGpnS2KYaqq9-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1rGQfbZzGGpnS2KYaqq9-4" target="1rGQfbZzGGpnS2KYaqq9-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1rGQfbZzGGpnS2KYaqq9-4" value="立项阶段" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1rGQfbZzGGpnS2KYaqq9-4" value="需求阶段" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1590" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1rGQfbZzGGpnS2KYaqq9-6" value="立项阶段" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1rGQfbZzGGpnS2KYaqq9-6" value="设计阶段" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1590" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
