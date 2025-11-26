@@ -139,8 +139,14 @@
         <mxCell id="1rGQfbZzGGpnS2KYaqq9-8" value="开发阶段" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1590" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1rGQfbZzGGpnS2KYaqq9-10" value="设计阶段" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1rGQfbZzGGpnS2KYaqq9-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1rGQfbZzGGpnS2KYaqq9-10" target="1rGQfbZzGGpnS2KYaqq9-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1rGQfbZzGGpnS2KYaqq9-10" value="测试阶段" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1590" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1rGQfbZzGGpnS2KYaqq9-12" value="测试阶段" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1590" y="790" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
