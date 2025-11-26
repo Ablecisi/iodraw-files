@@ -109,7 +109,7 @@
         <mxCell id="ExWru1HyYNCReK6B7PfG-35" value="项目经理：全生命周期负责" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-40" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1rGQfbZzGGpnS2KYaqq9-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1rGQfbZzGGpnS2KYaqq9-1" value="立项阶段" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1590" y="-50" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
