@@ -43,6 +43,9 @@
         <mxCell id="ExWru1HyYNCReK6B7PfG-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ExWru1HyYNCReK6B7PfG-12" target="ExWru1HyYNCReK6B7PfG-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ExWru1HyYNCReK6B7PfG-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ExWru1HyYNCReK6B7PfG-12" target="ExWru1HyYNCReK6B7PfG-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ExWru1HyYNCReK6B7PfG-12" value="测试和验收" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="510" width="120" height="60" as="geometry" />
         </mxCell>
@@ -66,6 +69,9 @@
         </mxCell>
         <mxCell id="ExWru1HyYNCReK6B7PfG-20" value="质量数据归档" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ExWru1HyYNCReK6B7PfG-22" value="质量管理部：验收评估" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="510" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
