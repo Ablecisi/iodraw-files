@@ -112,6 +112,9 @@
         <mxCell id="ezRfE4jtXiuooSpX_Euq-34" value="&lt;div&gt;系统第一阶段进度检验日期：2025/11/7&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="510" width="163" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ezRfE4jtXiuooSpX_Euq-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ezRfE4jtXiuooSpX_Euq-36" target="ezRfE4jtXiuooSpX_Euq-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ezRfE4jtXiuooSpX_Euq-36" value="&lt;div&gt;系统第二阶段进度检验日期：2025/11/10&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="483" y="650" width="163" height="60" as="geometry" />
         </mxCell>
@@ -144,6 +147,9 @@
         </mxCell>
         <mxCell id="ezRfE4jtXiuooSpX_Euq-53" value="项目建设安全意识&lt;br&gt;2025/11/10 17:10" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="726" y="650" width="163" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ezRfE4jtXiuooSpX_Euq-55" value="&lt;div&gt;数据库设计培训&lt;br&gt;2025/11/12&amp;nbsp;&amp;nbsp;19：00&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="650" width="163" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
