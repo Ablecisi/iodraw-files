@@ -106,9 +106,6 @@
         <mxCell id="ezRfE4jtXiuooSpX_Euq-30" value="&lt;div&gt;&lt;br&gt;输出系统功能清单：2025/11/5&amp;nbsp; 16:00&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="380" width="163" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ezRfE4jtXiuooSpX_Euq-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ezRfE4jtXiuooSpX_Euq-34" target="ezRfE4jtXiuooSpX_Euq-36">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="ezRfE4jtXiuooSpX_Euq-34" value="&lt;div&gt;系统第一阶段进度检验日期：2025/11/7&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="510" width="163" height="60" as="geometry" />
         </mxCell>
@@ -116,16 +113,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ezRfE4jtXiuooSpX_Euq-36" value="&lt;div&gt;系统第二阶段进度检验日期：2025/11/10&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="475.5" y="510" width="163" height="60" as="geometry" />
+          <mxGeometry x="835" y="570" width="163" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ezRfE4jtXiuooSpX_Euq-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ezRfE4jtXiuooSpX_Euq-38" target="ezRfE4jtXiuooSpX_Euq-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ezRfE4jtXiuooSpX_Euq-38" value="&lt;div&gt;系统第三阶段进度检验日期：2025/11/14&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="718.5" y="510" width="163" height="60" as="geometry" />
+          <mxGeometry x="1078" y="570" width="163" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ezRfE4jtXiuooSpX_Euq-40" value="&lt;div&gt;系统最终演示答辩日期：2025/11/17&amp;nbsp;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="961.5" y="510" width="163" height="60" as="geometry" />
+          <mxGeometry x="1078" y="690" width="163" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ezRfE4jtXiuooSpX_Euq-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ezRfE4jtXiuooSpX_Euq-45" target="ezRfE4jtXiuooSpX_Euq-28">
           <mxGeometry relative="1" as="geometry" />
