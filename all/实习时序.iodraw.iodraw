@@ -100,8 +100,14 @@
         <mxCell id="ezRfE4jtXiuooSpX_Euq-28" value="&lt;div&gt;项目管理方法论&lt;br&gt;11月6日(周四)&amp;nbsp;16:00-18:00&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="245.5" y="380" width="163" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ezRfE4jtXiuooSpX_Euq-30" value="&lt;div&gt;项目管理方法论&lt;br&gt;11月6日(周四)&amp;nbsp;16:00-18:00&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ezRfE4jtXiuooSpX_Euq-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ezRfE4jtXiuooSpX_Euq-30" target="ezRfE4jtXiuooSpX_Euq-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ezRfE4jtXiuooSpX_Euq-30" value="&lt;div&gt;&lt;br&gt;输出系统功能清单：2025/11/5&amp;nbsp;&amp;nbsp;今天下午16:00&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2.5" y="380" width="163" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ezRfE4jtXiuooSpX_Euq-32" value="&lt;div&gt;&lt;br&gt;输出系统功能清单：2025/11/5&amp;nbsp;&amp;nbsp;今天下午16:00&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2.5" y="520" width="163" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
