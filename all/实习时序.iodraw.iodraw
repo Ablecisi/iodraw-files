@@ -163,8 +163,14 @@
         <mxCell id="ezRfE4jtXiuooSpX_Euq-58" value="&lt;div&gt;华丰项目概念讲解-基本业务框架&lt;br&gt;2025/11/18 16:00&amp;nbsp;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="243.5" y="770" width="163" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ezRfE4jtXiuooSpX_Euq-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ezRfE4jtXiuooSpX_Euq-60" target="ezRfE4jtXiuooSpX_Euq-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ezRfE4jtXiuooSpX_Euq-60" value="LTC-线索-商机-项目-样品&amp;nbsp;功能讲解&lt;br&gt;2025/11/20 14:00" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="486.5" y="770" width="163" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ezRfE4jtXiuooSpX_Euq-62" value="&#xa;LTC-报价-合同-订单-交货-开票&amp;nbsp;功能讲解&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="729.5" y="770" width="163" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
