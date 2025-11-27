@@ -73,20 +73,17 @@
         <mxCell id="ezRfE4jtXiuooSpX_Euq-17" value="数据库答辩&lt;br&gt;2025/10/31&amp;nbsp;下午16:30" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2396" y="40" width="163" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ezRfE4jtXiuooSpX_Euq-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ezRfE4jtXiuooSpX_Euq-19" target="ezRfE4jtXiuooSpX_Euq-21">
+        <mxCell id="ezRfE4jtXiuooSpX_Euq-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ezRfE4jtXiuooSpX_Euq-19" target="ezRfE4jtXiuooSpX_Euq-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ezRfE4jtXiuooSpX_Euq-19" value="《V8基础培训》&lt;div&gt;2025/11/3&amp;nbsp;&amp;nbsp;&amp;nbsp;14：00&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2639" y="40" width="163" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ezRfE4jtXiuooSpX_Euq-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ezRfE4jtXiuooSpX_Euq-21" target="ezRfE4jtXiuooSpX_Euq-23">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="ezRfE4jtXiuooSpX_Euq-21" value="&lt;div&gt;V8构建学生管理系统&lt;br&gt;截止2025/11/4&amp;nbsp;&amp;nbsp;16：00&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2882" y="40" width="163" height="60" as="geometry" />
+          <mxGeometry x="3100" y="40" width="163" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ezRfE4jtXiuooSpX_Euq-23" value="&amp;nbsp;第二次答疑&lt;br&gt;2025/11/4 15:00" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3125" y="40" width="163" height="60" as="geometry" />
+          <mxGeometry x="2890" y="40" width="163" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
