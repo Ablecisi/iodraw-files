@@ -94,8 +94,11 @@
         <mxCell id="ezRfE4jtXiuooSpX_Euq-23" value="&amp;nbsp;第二次答疑&lt;br&gt;2025/11/4 15:00" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="707" y="380" width="163" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ezRfE4jtXiuooSpX_Euq-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ezRfE4jtXiuooSpX_Euq-28" target="ezRfE4jtXiuooSpX_Euq-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ezRfE4jtXiuooSpX_Euq-28" value="&lt;div&gt;项目管理方法论&lt;br&gt;11月6日 16:30-18:00&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="18.5" y="510" width="163" height="60" as="geometry" />
+          <mxGeometry x="20" y="510" width="163" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ezRfE4jtXiuooSpX_Euq-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ezRfE4jtXiuooSpX_Euq-30" target="ezRfE4jtXiuooSpX_Euq-45">
           <mxGeometry relative="1" as="geometry" />
@@ -123,6 +126,9 @@
         </mxCell>
         <mxCell id="ezRfE4jtXiuooSpX_Euq-40" value="&lt;div&gt;系统最终演示答辩日期：2025/11/17&amp;nbsp;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="961.5" y="510" width="163" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ezRfE4jtXiuooSpX_Euq-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ezRfE4jtXiuooSpX_Euq-45" target="ezRfE4jtXiuooSpX_Euq-28">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ezRfE4jtXiuooSpX_Euq-45" value="&lt;div&gt;关于托育项目业务问题线上答疑&lt;br&gt;2025/11/5 20:00&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="380" width="163" height="60" as="geometry" />
