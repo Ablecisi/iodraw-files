@@ -31,14 +31,20 @@
         <mxCell id="znGHzws4_47vZ_2XkDHl-7" value="托育项目用思维导图的方式输出第一版对应的理解和疑问&lt;br&gt;2025/10/27&amp;nbsp;下午17:30" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="707" y="40" width="163" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ezRfE4jtXiuooSpX_Euq-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ezRfE4jtXiuooSpX_Euq-1" target="ezRfE4jtXiuooSpX_Euq-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ezRfE4jtXiuooSpX_Euq-1" value="初步评讲&lt;br&gt;2025/10/27 17：40" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="40" width="163" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ezRfE4jtXiuooSpX_Euq-3" value="第二版思维导图&lt;br&gt;10/28 18:00" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="160" width="163" height="60" as="geometry" />
+          <mxGeometry x="1400" y="40" width="163" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ezRfE4jtXiuooSpX_Euq-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ezRfE4jtXiuooSpX_Euq-5" target="ezRfE4jtXiuooSpX_Euq-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ezRfE4jtXiuooSpX_Euq-5" value="《公司业务全景：解析与展望》&lt;br&gt;2025/10/28&amp;nbsp;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;下午2点&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1436" y="40" width="163" height="60" as="geometry" />
+          <mxGeometry x="1190" y="40" width="163" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ezRfE4jtXiuooSpX_Euq-7" value="发散思维再优化自己的思维导图提出更多更深的问题&lt;br&gt;2025/10/30&amp;nbsp; 19：00" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1910" y="40" width="163" height="60" as="geometry" />
