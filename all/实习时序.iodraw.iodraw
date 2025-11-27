@@ -37,8 +37,14 @@
         <mxCell id="ezRfE4jtXiuooSpX_Euq-1" value="初步评讲&lt;br&gt;2025/10/27 17：40" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="40" width="163" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ezRfE4jtXiuooSpX_Euq-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ezRfE4jtXiuooSpX_Euq-3" target="ezRfE4jtXiuooSpX_Euq-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ezRfE4jtXiuooSpX_Euq-3" value="第二版思维导图&lt;br&gt;10/28 11:00" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1193" y="40" width="163" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ezRfE4jtXiuooSpX_Euq-5" value="第二版思维导图&lt;br&gt;10/28 11:00" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1436" y="40" width="163" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
