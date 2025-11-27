@@ -94,11 +94,11 @@
         <mxCell id="ezRfE4jtXiuooSpX_Euq-23" value="&amp;nbsp;第二次答疑&lt;br&gt;2025/11/4 15:00" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="707" y="380" width="163" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ezRfE4jtXiuooSpX_Euq-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ezRfE4jtXiuooSpX_Euq-28" target="ezRfE4jtXiuooSpX_Euq-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ezRfE4jtXiuooSpX_Euq-28" value="&lt;div&gt;项目管理方法论&lt;br&gt;11月6日 16:30-18:00&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="380" width="163" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ezRfE4jtXiuooSpX_Euq-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ezRfE4jtXiuooSpX_Euq-30" target="ezRfE4jtXiuooSpX_Euq-28">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ezRfE4jtXiuooSpX_Euq-30" value="&lt;div&gt;&lt;br&gt;输出系统功能清单：2025/11/5&amp;nbsp; 16:00&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="380" width="163" height="60" as="geometry" />
@@ -107,7 +107,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ezRfE4jtXiuooSpX_Euq-34" value="&lt;div&gt;系统第一阶段进度检验日期：2025/11/7&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2.5" y="520" width="163" height="60" as="geometry" />
+          <mxGeometry x="10" y="520" width="163" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ezRfE4jtXiuooSpX_Euq-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ezRfE4jtXiuooSpX_Euq-36" target="ezRfE4jtXiuooSpX_Euq-38">
           <mxGeometry relative="1" as="geometry" />
