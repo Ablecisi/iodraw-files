@@ -167,7 +167,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ezRfE4jtXiuooSpX_Euq-60" value="LTC-线索-商机-项目-样品&amp;nbsp;功能讲解&lt;br&gt;2025/11/20 14:00" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="488.5" y="770" width="163" height="60" as="geometry" />
+          <mxGeometry x="509" y="620" width="163" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ezRfE4jtXiuooSpX_Euq-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ezRfE4jtXiuooSpX_Euq-62" target="ezRfE4jtXiuooSpX_Euq-70">
           <mxGeometry relative="1" as="geometry" />
@@ -179,7 +179,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ezRfE4jtXiuooSpX_Euq-64" value="&lt;div&gt;华丰项目概念讲解-基本业务框架反讲&lt;br&gt;2025/11/21 14:00&amp;nbsp;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="737.5" y="770" width="163" height="60" as="geometry" />
+          <mxGeometry x="726" y="620" width="163" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ezRfE4jtXiuooSpX_Euq-70" value="LTC段反讲" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="494.5" y="910" width="163" height="60" as="geometry" />
