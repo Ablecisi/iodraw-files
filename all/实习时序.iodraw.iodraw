@@ -17,7 +17,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="znGHzws4_47vZ_2XkDHl-2" value="社事投托育项目的讲解&lt;br&gt;（2025/10/27&amp;nbsp;14：00）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="509" y="20" width="160" height="60" as="geometry" />
+          <mxGeometry x="461.5" y="20" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="znGHzws4_47vZ_2XkDHl-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="znGHzws4_47vZ_2XkDHl-5" target="znGHzws4_47vZ_2XkDHl-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -47,7 +47,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ezRfE4jtXiuooSpX_Euq-5" value="《公司业务全景：解析与展望》&lt;br&gt;2025/10/28&amp;nbsp;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;下午2点&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="507.5" y="120" width="163" height="60" as="geometry" />
+          <mxGeometry x="460" y="120" width="163" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ezRfE4jtXiuooSpX_Euq-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ezRfE4jtXiuooSpX_Euq-7" target="ezRfE4jtXiuooSpX_Euq-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -74,7 +74,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ezRfE4jtXiuooSpX_Euq-17" value="数据库答辩&lt;br&gt;2025/10/31&amp;nbsp;下午16:30" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="507.5" y="220" width="163" height="60" as="geometry" />
+          <mxGeometry x="460" y="220" width="163" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ezRfE4jtXiuooSpX_Euq-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ezRfE4jtXiuooSpX_Euq-19" target="ezRfE4jtXiuooSpX_Euq-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -86,7 +86,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ezRfE4jtXiuooSpX_Euq-21" value="&lt;div&gt;V8构建学生管理系统&lt;br&gt;截止2025/11/4&amp;nbsp;&amp;nbsp;16：00&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="509" y="320" width="163" height="60" as="geometry" />
+          <mxGeometry x="461.5" y="320" width="163" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ezRfE4jtXiuooSpX_Euq-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ezRfE4jtXiuooSpX_Euq-23" target="ezRfE4jtXiuooSpX_Euq-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -116,7 +116,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ezRfE4jtXiuooSpX_Euq-36" value="&lt;div&gt;系统第二阶段进度检验日期：2025/11/10&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="509" y="520" width="163" height="60" as="geometry" />
+          <mxGeometry x="461.5" y="520" width="163" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ezRfE4jtXiuooSpX_Euq-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ezRfE4jtXiuooSpX_Euq-38" target="ezRfE4jtXiuooSpX_Euq-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -140,7 +140,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ezRfE4jtXiuooSpX_Euq-49" value="&lt;div&gt;项目建设常规问题分析&lt;br&gt;2025/11/7&amp;nbsp;上午9：30&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="509" y="420" width="163" height="60" as="geometry" />
+          <mxGeometry x="461.5" y="420" width="163" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ezRfE4jtXiuooSpX_Euq-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ezRfE4jtXiuooSpX_Euq-51" target="ezRfE4jtXiuooSpX_Euq-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -170,7 +170,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ezRfE4jtXiuooSpX_Euq-60" value="LTC-线索-商机-项目-样品&amp;nbsp;功能讲解&lt;br&gt;2025/11/20 14:00" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="509" y="620" width="163" height="60" as="geometry" />
+          <mxGeometry x="461.5" y="620" width="163" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ezRfE4jtXiuooSpX_Euq-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ezRfE4jtXiuooSpX_Euq-62" target="ezRfE4jtXiuooSpX_Euq-70" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -185,7 +185,7 @@
           <mxGeometry x="726" y="620" width="163" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ezRfE4jtXiuooSpX_Euq-70" value="LTC段反讲" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="507.5" y="720" width="163" height="60" as="geometry" />
+          <mxGeometry x="460" y="720" width="163" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
