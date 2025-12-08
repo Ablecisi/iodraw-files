@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="kRzrQqvJmWokxUWIONks-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kRzrQqvJmWokxUWIONks-1" target="kRzrQqvJmWokxUWIONks-2">
+        <mxCell id="kRzrQqvJmWokxUWIONks-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kRzrQqvJmWokxUWIONks-7" target="kRzrQqvJmWokxUWIONks-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kRzrQqvJmWokxUWIONks-1" value="党组织设立备案（表单）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -21,6 +21,15 @@
         </mxCell>
         <mxCell id="kRzrQqvJmWokxUWIONks-6" value="党组织负责人" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=general;" vertex="1" parent="1">
           <mxGeometry x="405" y="230" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kRzrQqvJmWokxUWIONks-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kRzrQqvJmWokxUWIONks-1" target="kRzrQqvJmWokxUWIONks-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="170" as="sourcePoint" />
+            <mxPoint x="430" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kRzrQqvJmWokxUWIONks-7" value="党组织负责人" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=general;" vertex="1" parent="1">
+          <mxGeometry x="405" y="350" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
