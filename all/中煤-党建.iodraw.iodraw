@@ -69,8 +69,8 @@
             <mxPoint x="670" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kRzrQqvJmWokxUWIONks-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="540" width="120" height="60" as="geometry" />
+        <mxCell id="kRzrQqvJmWokxUWIONks-24" value="发展对象" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kRzrQqvJmWokxUWIONks-25" value="人员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="160" width="120" height="60" as="geometry" />
