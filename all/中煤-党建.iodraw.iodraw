@@ -7,11 +7,16 @@
         <mxCell id="kRzrQqvJmWokxUWIONks-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kRzrQqvJmWokxUWIONks-10" target="kRzrQqvJmWokxUWIONks-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="kRzrQqvJmWokxUWIONks-12" value="回写" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kRzrQqvJmWokxUWIONks-3">
+          <mxGeometry x="0.1938" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="kRzrQqvJmWokxUWIONks-1" value="党组织设立备案（表单-单据）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kRzrQqvJmWokxUWIONks-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="480" width="120" height="60" as="geometry" />
+        <mxCell id="kRzrQqvJmWokxUWIONks-2" value="党组织档案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kRzrQqvJmWokxUWIONks-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="kRzrQqvJmWokxUWIONks-4" target="kRzrQqvJmWokxUWIONks-1">
           <mxGeometry relative="1" as="geometry" />
