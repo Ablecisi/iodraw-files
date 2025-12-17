@@ -49,7 +49,7 @@
         <mxCell id="kjCDGnmjkEAf9CWY3Dzp-16" value="合同" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="420" width="720" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kjCDGnmjkEAf9CWY3Dzp-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kjCDGnmjkEAf9CWY3Dzp-17" value="&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:楷体_GB2312;mso-hansi-font-family:宋体;&lt;br/&gt;mso-bidi-font-family:宋体;font-size:12.0000pt;mso-font-kerning:1.0000pt;&quot;&gt;合同编号&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="460" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kjCDGnmjkEAf9CWY3Dzp-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="kjCDGnmjkEAf9CWY3Dzp-18" target="kjCDGnmjkEAf9CWY3Dzp-2">
