@@ -37,6 +37,9 @@
         <mxCell id="kjCDGnmjkEAf9CWY3Dzp-8" value="合同付款" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="260" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kjCDGnmjkEAf9CWY3Dzp-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="kjCDGnmjkEAf9CWY3Dzp-9" target="kjCDGnmjkEAf9CWY3Dzp-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kjCDGnmjkEAf9CWY3Dzp-9" value="合同变更" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="310" width="120" height="60" as="geometry" />
         </mxCell>
@@ -54,6 +57,9 @@
         </mxCell>
         <mxCell id="kjCDGnmjkEAf9CWY3Dzp-18" value="合同补充" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kjCDGnmjkEAf9CWY3Dzp-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
