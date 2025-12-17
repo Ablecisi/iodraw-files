@@ -29,19 +29,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kjCDGnmjkEAf9CWY3Dzp-5" value="合同签署" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kjCDGnmjkEAf9CWY3Dzp-7" value="合同收款" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kjCDGnmjkEAf9CWY3Dzp-8" value="合同付款" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kjCDGnmjkEAf9CWY3Dzp-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="kjCDGnmjkEAf9CWY3Dzp-9" target="kjCDGnmjkEAf9CWY3Dzp-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kjCDGnmjkEAf9CWY3Dzp-9" value="合同变更" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kjCDGnmjkEAf9CWY3Dzp-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="420" width="720" height="330" as="geometry" />
