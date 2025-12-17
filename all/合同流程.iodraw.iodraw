@@ -46,7 +46,7 @@
         <mxCell id="kjCDGnmjkEAf9CWY3Dzp-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="460" width="720" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="kjCDGnmjkEAf9CWY3Dzp-16" value="合同" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kjCDGnmjkEAf9CWY3Dzp-16" value="合同（短单）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="460" width="720" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kjCDGnmjkEAf9CWY3Dzp-17" value="&lt;span style=&quot;font-family: 楷体_GB2312; font-size: 10px;&quot;&gt;合同编号&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fontStyle=0" vertex="1" parent="1">
