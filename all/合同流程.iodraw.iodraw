@@ -151,8 +151,8 @@
             <mxPoint x="354" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kjCDGnmjkEAf9CWY3Dzp-98" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="210" width="120" height="60" as="geometry" />
+        <mxCell id="kjCDGnmjkEAf9CWY3Dzp-98" value="合同审批单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
