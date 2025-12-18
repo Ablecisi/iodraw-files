@@ -58,11 +58,10 @@
         <mxCell id="kjCDGnmjkEAf9CWY3Dzp-18" value="合同补充" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="514" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kjCDGnmjkEAf9CWY3Dzp-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kjCDGnmjkEAf9CWY3Dzp-30" target="kjCDGnmjkEAf9CWY3Dzp-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="kjCDGnmjkEAf9CWY3Dzp-30" value="合同模版" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="34" y="210" width="120" height="60" as="geometry" />
+        <mxCell id="kjCDGnmjkEAf9CWY3Dzp-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="kjCDGnmjkEAf9CWY3Dzp-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="154" y="240.0000000000001" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="kjCDGnmjkEAf9CWY3Dzp-32" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;font-family: 楷体_GB2312; font-size: 10px;&quot;&gt;供方&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="180" y="500" width="120" height="40" as="geometry" />
@@ -147,6 +146,9 @@
         </mxCell>
         <mxCell id="kjCDGnmjkEAf9CWY3Dzp-63" value="&lt;u style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;font-family: 楷体_GB2312; font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/u&gt;&lt;span style=&quot;font-family: 楷体_GB2312; font-size: 10px;&quot;&gt;对仲裁样检验结果为准&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="420" y="660" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kjCDGnmjkEAf9CWY3Dzp-95" value="&lt;font face=&quot;楷体_GB2312&quot;&gt;&lt;u&gt;附件&lt;/u&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="540" y="660" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
