@@ -163,8 +163,8 @@
         <mxCell id="kjCDGnmjkEAf9CWY3Dzp-100" value="预审" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kjCDGnmjkEAf9CWY3Dzp-101" value="问题记录：&lt;br&gt;1、标准合同是否需要走起草，不走预审？&lt;br&gt;2、印章是否需要做到基础信息中去？&lt;br&gt;3、终止/暂停后有什么动作？&lt;br&gt;4、解除跟终止有什么区别？&lt;br&gt;5、转让后履约怎么办？&lt;br&gt;6、预审与标准合同审批单如何关联？&lt;br&gt;7、收付款是否要管理销售或者采购数据数据，开票依据？" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="1150" width="340" height="140" as="geometry" />
+        <mxCell id="kjCDGnmjkEAf9CWY3Dzp-101" value="问题记录：&lt;br&gt;1、标准合同是否需要走起草，不走预审？不起草不走预审&lt;br&gt;2、印章是否需要做到基础信息中去？对接即可&lt;br&gt;3、终止/暂停后有什么动作？&lt;br&gt;4、解除跟终止有什么区别？&lt;br&gt;5、转让后履约怎么办？&lt;br&gt;6、预审与标准合同审批单如何关联？&lt;br&gt;7、收付款是否要管理销售或者采购数据数据，开票依据？" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1140" width="340" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
