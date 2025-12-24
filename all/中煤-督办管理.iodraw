@@ -49,8 +49,8 @@
         <mxCell id="o9yDCZZxerUD19q2BqDt-8" value="督办事项分解" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9yDCZZxerUD19q2BqDt-18" value="是否需要变更" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="580" width="80" height="50" as="geometry" />
+        <mxCell id="o9yDCZZxerUD19q2BqDt-18" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;是否需要变更&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="590" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
