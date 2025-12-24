@@ -35,7 +35,7 @@
           <mxGeometry x="220" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o9yDCZZxerUD19q2BqDt-5" value="生成督办立项档案" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o9yDCZZxerUD19q2BqDt-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o9yDCZZxerUD19q2BqDt-6" target="o9yDCZZxerUD19q2BqDt-23">
           <mxGeometry relative="1" as="geometry" />
@@ -79,11 +79,14 @@
         <mxCell id="o9yDCZZxerUD19q2BqDt-33" value="进度是否100%" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="1050" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="o9yDCZZxerUD19q2BqDt-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="o9yDCZZxerUD19q2BqDt-34" target="o9yDCZZxerUD19q2BqDt-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="o9yDCZZxerUD19q2BqDt-34" value="督办事项结项" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="1169" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o9yDCZZxerUD19q2BqDt-35" value="结束" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="260" y="1350" width="40" height="40" as="geometry" />
+          <mxGeometry x="260" y="1280" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="o9yDCZZxerUD19q2BqDt-36" value="催办通知/批量催办" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="810" width="120" height="60" as="geometry" />
