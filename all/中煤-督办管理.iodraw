@@ -32,10 +32,10 @@
           <mxGeometry x="220" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o9yDCZZxerUD19q2BqDt-5" value="生成督办立项档案" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="20" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o9yDCZZxerUD19q2BqDt-6" value="督办事项变更" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="420" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o9yDCZZxerUD19q2BqDt-7" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;是否事项来源=领导交办 &lt;br&gt;and 承办人=null&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="205" y="360" width="150" height="80" as="geometry" />
