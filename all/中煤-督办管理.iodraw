@@ -70,6 +70,9 @@
         <mxCell id="o9yDCZZxerUD19q2BqDt-26" value="进度反馈" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="950" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="o9yDCZZxerUD19q2BqDt-33" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1060" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
