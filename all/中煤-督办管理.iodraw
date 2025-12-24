@@ -34,8 +34,8 @@
         <mxCell id="o9yDCZZxerUD19q2BqDt-6" value="督办事项变更" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9yDCZZxerUD19q2BqDt-7" value="是否事项来源=领导交办 承办人=null" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="360" width="240" height="110" as="geometry" />
+        <mxCell id="o9yDCZZxerUD19q2BqDt-7" value="是否事项来源=领导交办 &lt;br&gt;and 承办人=null" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="360" width="170" height="90" as="geometry" />
         </mxCell>
         <mxCell id="o9yDCZZxerUD19q2BqDt-8" value="督办事项分解" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="500" width="120" height="60" as="geometry" />
