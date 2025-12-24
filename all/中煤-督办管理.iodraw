@@ -35,7 +35,7 @@
           <mxGeometry x="220" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o9yDCZZxerUD19q2BqDt-5" value="生成督办立项档案" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o9yDCZZxerUD19q2BqDt-6" value="督办事项变更" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="880" width="120" height="60" as="geometry" />
