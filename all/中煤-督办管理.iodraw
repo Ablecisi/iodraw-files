@@ -171,7 +171,7 @@
         <mxCell id="mcSQNwZnNwZYaQh6Zafp-3" value="督办管理流程图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="-60" width="800" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mcSQNwZnNwZYaQh6Zafp-6" value="督办管理模块设计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mcSQNwZnNwZYaQh6Zafp-6" value="督办管理&lt;span style=&quot;font-family: 楷体; font-size: 12pt;&quot;&gt;系统功能模块设计&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="-60" width="800" height="60" as="geometry" />
         </mxCell>
       </root>
