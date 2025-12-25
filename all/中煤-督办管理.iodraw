@@ -22,9 +22,6 @@
         <mxCell id="mcSQNwZnNwZYaQh6Zafp-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="mcSQNwZnNwZYaQh6Zafp-9" source="mcSQNwZnNwZYaQh6Zafp-10" target="mcSQNwZnNwZYaQh6Zafp-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mcSQNwZnNwZYaQh6Zafp-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="mcSQNwZnNwZYaQh6Zafp-9" source="mcSQNwZnNwZYaQh6Zafp-10" target="mcSQNwZnNwZYaQh6Zafp-33">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="mcSQNwZnNwZYaQh6Zafp-10" value="督办管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="mcSQNwZnNwZYaQh6Zafp-9">
           <mxGeometry x="281" y="100" width="120" height="60" as="geometry" />
         </mxCell>
@@ -50,7 +47,7 @@
           <mxGeometry x="420" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mcSQNwZnNwZYaQh6Zafp-33" value="董事会反馈汇总" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="mcSQNwZnNwZYaQh6Zafp-9">
-          <mxGeometry x="560" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mcSQNwZnNwZYaQh6Zafp-36" value="&lt;font face=&quot;Helvetica&quot;&gt;督办变更&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="mcSQNwZnNwZYaQh6Zafp-9">
           <mxGeometry x="140" y="320" width="120" height="60" as="geometry" />
