@@ -43,7 +43,7 @@
         <mxCell id="mcSQNwZnNwZYaQh6Zafp-19" value="进度反馈" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="mcSQNwZnNwZYaQh6Zafp-9">
           <mxGeometry x="460" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mcSQNwZnNwZYaQh6Zafp-33" value="进度反馈" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="mcSQNwZnNwZYaQh6Zafp-9">
+        <mxCell id="mcSQNwZnNwZYaQh6Zafp-33" value="董事会反馈汇总" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="mcSQNwZnNwZYaQh6Zafp-9">
           <mxGeometry x="600" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mcSQNwZnNwZYaQh6Zafp-8" value="" style="group" vertex="1" connectable="0" parent="1">
