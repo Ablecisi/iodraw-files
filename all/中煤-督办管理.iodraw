@@ -184,22 +184,22 @@
           <mxGeometry x="1139.75" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mcSQNwZnNwZYaQh6Zafp-11" value="督办任务分解" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="940" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="1000" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mcSQNwZnNwZYaQh6Zafp-13" value="协同办理事项" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="1140" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mcSQNwZnNwZYaQh6Zafp-15" value="督办立项" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="1280" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mcSQNwZnNwZYaQh6Zafp-19" value="督办通知" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1360" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="1420" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mcSQNwZnNwZYaQh6Zafp-33" value="督办催办" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="809.75" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mcSQNwZnNwZYaQh6Zafp-36" value="&lt;font face=&quot;Helvetica&quot;&gt;督办变更&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="1210" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mcSQNwZnNwZYaQh6Zafp-54" value="&lt;font face=&quot;Helvetica&quot;&gt;督办结项&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1340" y="290" width="120" height="60" as="geometry" />
@@ -211,10 +211,10 @@
           <mxGeometry x="940" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mcSQNwZnNwZYaQh6Zafp-62" value="董事会反馈汇总" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1069.75" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="1080" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mcSQNwZnNwZYaQh6Zafp-63" value="部门主管维护" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="860" y="190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
