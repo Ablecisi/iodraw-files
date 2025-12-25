@@ -171,6 +171,9 @@
         <mxCell id="mcSQNwZnNwZYaQh6Zafp-3" value="督办管理流程图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="-60" width="800" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="mcSQNwZnNwZYaQh6Zafp-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="-60" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
