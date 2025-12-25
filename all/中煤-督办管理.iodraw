@@ -299,6 +299,9 @@
         <mxCell id="mcSQNwZnNwZYaQh6Zafp-79" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="mcSQNwZnNwZYaQh6Zafp-77">
           <mxGeometry y="60" width="3300" height="1400" as="geometry" />
         </mxCell>
+        <mxCell id="mcSQNwZnNwZYaQh6Zafp-103" value="Container" style="swimlane;" vertex="1" parent="mcSQNwZnNwZYaQh6Zafp-77">
+          <mxGeometry x="260" y="400" width="200" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
