@@ -19,8 +19,13 @@
         <mxCell id="mcSQNwZnNwZYaQh6Zafp-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="mcSQNwZnNwZYaQh6Zafp-9" source="mcSQNwZnNwZYaQh6Zafp-10" target="mcSQNwZnNwZYaQh6Zafp-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mcSQNwZnNwZYaQh6Zafp-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="mcSQNwZnNwZYaQh6Zafp-9" source="mcSQNwZnNwZYaQh6Zafp-10" target="mcSQNwZnNwZYaQh6Zafp-19">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="mcSQNwZnNwZYaQh6Zafp-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="mcSQNwZnNwZYaQh6Zafp-9" source="mcSQNwZnNwZYaQh6Zafp-10" target="mcSQNwZnNwZYaQh6Zafp-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="140" />
+              <mxPoint x="610" y="140" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="mcSQNwZnNwZYaQh6Zafp-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="mcSQNwZnNwZYaQh6Zafp-9" source="mcSQNwZnNwZYaQh6Zafp-10" target="mcSQNwZnNwZYaQh6Zafp-33">
           <mxGeometry relative="1" as="geometry">
@@ -41,9 +46,7 @@
         <mxCell id="mcSQNwZnNwZYaQh6Zafp-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="mcSQNwZnNwZYaQh6Zafp-9" source="mcSQNwZnNwZYaQh6Zafp-10" target="mcSQNwZnNwZYaQh6Zafp-54">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="400" y="210" />
-              <mxPoint x="540" y="210" />
-              <mxPoint x="540" y="320" />
+              <mxPoint x="400" y="320" />
               <mxPoint x="469" y="320" />
             </Array>
           </mxGeometry>
