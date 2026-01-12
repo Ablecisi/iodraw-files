@@ -250,6 +250,20 @@
             <mxPoint x="200" y="900" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="WeM4frYMUaimsd-QQ_P3-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="mcSQNwZnNwZYaQh6Zafp-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="900" as="sourcePoint" />
+            <mxPoint x="25" y="1010" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="25" y="900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WeM4frYMUaimsd-QQ_P3-63" value="管理员" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WeM4frYMUaimsd-QQ_P3-62">
+          <mxGeometry x="-0.0105" y="-1" relative="1" as="geometry">
+            <mxPoint x="47" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="WeM4frYMUaimsd-QQ_P3-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="mcSQNwZnNwZYaQh6Zafp-76" source="o9yDCZZxerUD19q2BqDt-23" target="o9yDCZZxerUD19q2BqDt-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -276,18 +290,6 @@
         <mxCell id="WeM4frYMUaimsd-QQ_P3-51" value="三重一大事项反馈" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WeM4frYMUaimsd-QQ_P3-2">
           <mxGeometry x="0.1947" y="-1" relative="1" as="geometry">
             <mxPoint x="10" y="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WeM4frYMUaimsd-QQ_P3-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="mcSQNwZnNwZYaQh6Zafp-76" source="WeM4frYMUaimsd-QQ_P3-65" target="o9yDCZZxerUD19q2BqDt-48">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="190" y="1020" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WeM4frYMUaimsd-QQ_P3-63" value="管理员" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WeM4frYMUaimsd-QQ_P3-62">
-          <mxGeometry x="-0.0105" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WeM4frYMUaimsd-QQ_P3-52" value="督办档案" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="mcSQNwZnNwZYaQh6Zafp-76">
