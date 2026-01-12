@@ -123,13 +123,13 @@
         <mxCell id="mcSQNwZnNwZYaQh6Zafp-76" value="" style="group;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1" connectable="0">
           <mxGeometry y="-60" width="800" height="1460" as="geometry" />
         </mxCell>
-        <mxCell id="mcSQNwZnNwZYaQh6Zafp-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="mcSQNwZnNwZYaQh6Zafp-76" vertex="1">
+        <mxCell id="mcSQNwZnNwZYaQh6Zafp-1" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="mcSQNwZnNwZYaQh6Zafp-76" vertex="1">
           <mxGeometry y="60" width="800" height="1400" as="geometry" />
         </mxCell>
         <mxCell id="mcSQNwZnNwZYaQh6Zafp-3" value="督办管理流程图" style="rounded=0;whiteSpace=wrap;html=1;" parent="mcSQNwZnNwZYaQh6Zafp-76" vertex="1">
           <mxGeometry width="800" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mcSQNwZnNwZYaQh6Zafp-2" value="" style="group" parent="mcSQNwZnNwZYaQh6Zafp-76" vertex="1" connectable="0">
+        <mxCell id="mcSQNwZnNwZYaQh6Zafp-2" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="mcSQNwZnNwZYaQh6Zafp-76" vertex="1" connectable="0">
           <mxGeometry x="165" y="120" width="490" height="1280" as="geometry" />
         </mxCell>
         <mxCell id="o9yDCZZxerUD19q2BqDt-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="mcSQNwZnNwZYaQh6Zafp-2" source="o9yDCZZxerUD19q2BqDt-1" target="o9yDCZZxerUD19q2BqDt-2" edge="1">
