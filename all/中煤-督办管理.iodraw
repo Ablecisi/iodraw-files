@@ -157,11 +157,10 @@
             <mxPoint x="10" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WeM4frYMUaimsd-QQ_P3-52" value="督办档案" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="mcSQNwZnNwZYaQh6Zafp-76">
-          <mxGeometry x="90" y="320" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="WeM4frYMUaimsd-QQ_P3-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="mcSQNwZnNwZYaQh6Zafp-76" source="o9yDCZZxerUD19q2BqDt-4" target="WeM4frYMUaimsd-QQ_P3-52">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="WeM4frYMUaimsd-QQ_P3-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="mcSQNwZnNwZYaQh6Zafp-76" source="o9yDCZZxerUD19q2BqDt-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="350" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="o9yDCZZxerUD19q2BqDt-8" value="督办事项分解" style="rounded=1;whiteSpace=wrap;html=1;" parent="mcSQNwZnNwZYaQh6Zafp-76" vertex="1">
           <mxGeometry x="305" y="680" width="120" height="60" as="geometry" />
@@ -238,7 +237,7 @@
             <mxPoint x="49" y="-22" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WeM4frYMUaimsd-QQ_P3-75" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="o9yDCZZxerUD19q2BqDt-12">
+        <mxCell id="WeM4frYMUaimsd-QQ_P3-75" value="都需要进行走立项流程" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="o9yDCZZxerUD19q2BqDt-12">
           <mxGeometry x="0.786" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
