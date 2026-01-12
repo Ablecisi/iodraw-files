@@ -259,11 +259,6 @@
         <mxCell id="o9yDCZZxerUD19q2BqDt-23" value="督办催办" style="whiteSpace=wrap;html=1;rounded=1;" parent="mcSQNwZnNwZYaQh6Zafp-76" vertex="1">
           <mxGeometry x="450" y="1060" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9yDCZZxerUD19q2BqDt-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="mcSQNwZnNwZYaQh6Zafp-76" source="o9yDCZZxerUD19q2BqDt-6" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="365" y="1020" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="WeM4frYMUaimsd-QQ_P3-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="mcSQNwZnNwZYaQh6Zafp-76" source="o9yDCZZxerUD19q2BqDt-48" target="o9yDCZZxerUD19q2BqDt-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
